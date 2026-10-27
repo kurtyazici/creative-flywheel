@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generated": "2026-10-27T11:37-05:00",
-  "top_n": 10,
-  "selection": "top 10 by GMV, blankets first then umbrella",
-  "timestamp_rule": "Hook strip 0 / 0.5 / 1 / 2 / 3s; Hold ~5s, Body = middle, Close = end - 2s (beat timestamp used if written in deconstruct). Each frame nudged up to +0.4s / -0.2s to the most detailed frame to avoid mid-transition blur"
+  "generated": "2026-10-27T12:01-05:00",
+  "selection": "all deconstruct videos",
+  "strip_every_s": 2.5,
+  "timestamp_rule": "Hook strip 0 / 0.5 / 1 / 2 / 3s; Hold ~5s, Body = middle, Close = end - 2s (beat timestamp used if written in deconstruct). Each frame nudged up to +0.4s / -0.2s to the most detailed frame to avoid mid-transition blur. Filmstrip: 1 frame / 2.5s"
  },
  "videos": [
   {
@@ -25,9 +25,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
     "duration": 40.75,
+    "downloaded_from": "https://www.tiktok.com/@maryalyssacarr/video/7697285819727547661",
     "hook": [
      {
       "target": 0.0,
@@ -66,9 +66,89 @@
     "close": {
      "t": 39.15,
      "src": "assets/storyboard/7697285819727547661/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7697285819727547661/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7697285819727547661/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7697285819727547661/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7697285819727547661/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7697285819727547661/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7697285819727547661/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7697285819727547661/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7697285819727547661/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7697285819727547661/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7697285819727547661/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7697285819727547661/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7697285819727547661/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7697285819727547661/strip/013.jpg"
+     },
+     {
+      "t": 32.5,
+      "src": "assets/storyboard/7697285819727547661/strip/014.jpg"
+     },
+     {
+      "t": 35.0,
+      "src": "assets/storyboard/7697285819727547661/strip/015.jpg"
+     },
+     {
+      "t": 37.5,
+      "src": "assets/storyboard/7697285819727547661/strip/016.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "how many did you count??  @Comfrt ",
+    "title": "how many did you count??  @Comfrt ",
+    "upload_date": "20261016",
+    "duration": 40,
+    "view_count": 4900000,
+    "like_count": 75500
+   },
+   "summary": {
+    "text": "Wide on bed stacked with ~30 Dreamers → Lean-in: stock up / “gift everybody wants.” · Collection flex = proof without a feature list",
+    "caption": "how many did you count?? @Comfrt",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "blanket",
@@ -89,9 +169,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
     "duration": 27.91,
+    "downloaded_from": "https://www.tiktok.com/@vi0letredfinds/video/7691119830375632142",
     "hook": [
      {
       "target": 0.0,
@@ -130,9 +210,69 @@
     "close": {
      "t": 26.31,
      "src": "assets/storyboard/7691119830375632142/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7691119830375632142/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7691119830375632142/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7691119830375632142/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7691119830375632142/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7691119830375632142/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7691119830375632142/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7691119830375632142/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7691119830375632142/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7691119830375632142/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7691119830375632142/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7691119830375632142/strip/011.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "This has to be my fav color yet absolutely stunning 💜🐅☁️✨ #comfrt #dreamerblanket #comfrtdreamerblanket #TikTokShopFallDealsForYou #cozyblanket @Comfrt ",
+    "title": "This has to be my fav color yet absolutely stunning 💜🐅☁️✨ #comfrt #dr...",
+    "upload_date": "20260930",
+    "duration": 27,
+    "view_count": 2800000,
+    "like_count": 37800
+   },
+   "summary": {
+    "text": "Selfie + boxed new color: “Tiger Amethyst Comfrt Blanket.” → In-bed wrap: “softest blanket you will ever feel.” · New-color drop + size word + bed payoff",
+    "caption": "This has to be my fav color yet absolutely stunning 💜🐅☁️✨ #comfrt #dreamerblanket #comfrtdreamerblanket #TikTokShopFallDealsForYou #cozyblanket @Comfrt",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "blanket",
@@ -153,9 +293,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
-    "duration": 77.23,
+    "duration": 77.27,
+    "downloaded_from": "https://www.tiktok.com/@tnelly1993/video/7679488554786884878",
     "hook": [
      {
       "target": 0.0,
@@ -164,12 +304,12 @@
      },
      {
       "target": 0.5,
-      "t": 0.3,
+      "t": 0.9,
       "src": "assets/storyboard/7679488554786884878/hook2.jpg"
      },
      {
       "target": 1.0,
-      "t": 1.4,
+      "t": 1.2,
       "src": "assets/storyboard/7679488554786884878/hook3.jpg"
      },
      {
@@ -188,15 +328,155 @@
      "src": "assets/storyboard/7679488554786884878/hold.jpg"
     },
     "body": {
-     "t": 39.01,
+     "t": 39.03,
      "src": "assets/storyboard/7679488554786884878/body.jpg"
     },
     "close": {
-     "t": 75.23,
+     "t": 75.67,
      "src": "assets/storyboard/7679488554786884878/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7679488554786884878/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7679488554786884878/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7679488554786884878/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7679488554786884878/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7679488554786884878/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7679488554786884878/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7679488554786884878/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7679488554786884878/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7679488554786884878/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7679488554786884878/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7679488554786884878/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7679488554786884878/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7679488554786884878/strip/013.jpg"
+     },
+     {
+      "t": 32.5,
+      "src": "assets/storyboard/7679488554786884878/strip/014.jpg"
+     },
+     {
+      "t": 35.0,
+      "src": "assets/storyboard/7679488554786884878/strip/015.jpg"
+     },
+     {
+      "t": 37.5,
+      "src": "assets/storyboard/7679488554786884878/strip/016.jpg"
+     },
+     {
+      "t": 40.0,
+      "src": "assets/storyboard/7679488554786884878/strip/017.jpg"
+     },
+     {
+      "t": 42.5,
+      "src": "assets/storyboard/7679488554786884878/strip/018.jpg"
+     },
+     {
+      "t": 45.0,
+      "src": "assets/storyboard/7679488554786884878/strip/019.jpg"
+     },
+     {
+      "t": 47.5,
+      "src": "assets/storyboard/7679488554786884878/strip/020.jpg"
+     },
+     {
+      "t": 50.0,
+      "src": "assets/storyboard/7679488554786884878/strip/021.jpg"
+     },
+     {
+      "t": 52.5,
+      "src": "assets/storyboard/7679488554786884878/strip/022.jpg"
+     },
+     {
+      "t": 55.0,
+      "src": "assets/storyboard/7679488554786884878/strip/023.jpg"
+     },
+     {
+      "t": 57.5,
+      "src": "assets/storyboard/7679488554786884878/strip/024.jpg"
+     },
+     {
+      "t": 60.0,
+      "src": "assets/storyboard/7679488554786884878/strip/025.jpg"
+     },
+     {
+      "t": 62.5,
+      "src": "assets/storyboard/7679488554786884878/strip/026.jpg"
+     },
+     {
+      "t": 65.0,
+      "src": "assets/storyboard/7679488554786884878/strip/027.jpg"
+     },
+     {
+      "t": 67.5,
+      "src": "assets/storyboard/7679488554786884878/strip/028.jpg"
+     },
+     {
+      "t": 70.0,
+      "src": "assets/storyboard/7679488554786884878/strip/029.jpg"
+     },
+     {
+      "t": 72.5,
+      "src": "assets/storyboard/7679488554786884878/strip/030.jpg"
+     },
+     {
+      "t": 75.0,
+      "src": "assets/storyboard/7679488554786884878/strip/031.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "The softest blanket ever!!! #comfrt #dreamerblanket @Comfrt #giftguide ",
+    "title": "The softest blanket ever!!! #comfrt #dreamerblanket @Comfrt #giftguide ",
+    "upload_date": "20260829",
+    "duration": 77,
+    "view_count": 3500000,
+    "like_count": 6594
+   },
+   "summary": {
+    "text": "Car selfie + OST “MAJOR COMFRT SALE W EXTRA COUPON!” → Wide-eyed: these will fly / stack coupons · Deal OST does the hook; VO sells soft + gift",
+    "caption": "The softest blanket ever!!! #comfrt #dreamerblanket @Comfrt #giftguide",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "blanket",
@@ -217,9 +497,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
     "duration": 33.45,
+    "downloaded_from": "https://www.tiktok.com/@heidiann__/video/7689223131751402766",
     "hook": [
      {
       "target": 0.0,
@@ -258,9 +538,77 @@
     "close": {
      "t": 31.65,
      "src": "assets/storyboard/7689223131751402766/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7689223131751402766/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7689223131751402766/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7689223131751402766/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7689223131751402766/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7689223131751402766/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7689223131751402766/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7689223131751402766/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7689223131751402766/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7689223131751402766/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7689223131751402766/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7689223131751402766/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7689223131751402766/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7689223131751402766/strip/013.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "please don’t make me count the hoodies next 🫣🤭☁️🧸 @Comfrt #comfrt #home #homedecor #blanket #cozy ",
+    "title": "please don’t make me count the hoodies next 🫣🤭☁️🧸 @Comfrt #comfrt #ho...",
+    "upload_date": "20260924",
+    "duration": 33,
+    "view_count": 2700000,
+    "like_count": 71800
+   },
+   "summary": {
+    "text": "Kneeling at ~22-stack → Hug stack → check coupons CTA · Twin of #1 — abundance + value close",
+    "caption": "please don’t make me count the hoodies next 🫣🤭☁️🧸 @Comfrt #comfrt #home #homedecor #blanket #cozy",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "blanket",
@@ -281,9 +629,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
     "duration": 7.53,
+    "downloaded_from": "https://www.tiktok.com/@lolavalamps/video/7688367224557456654",
     "hook": [
      {
       "target": 0.0,
@@ -322,9 +670,37 @@
     "close": {
      "t": 6.23,
      "src": "assets/storyboard/7688367224557456654/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7688367224557456654/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7688367224557456654/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7688367224557456654/strip/003.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "the color amethyst ✨ @Comfrt ",
+    "title": "the color amethyst ✨ @Comfrt ",
+    "upload_date": "20260922",
+    "duration": 7,
+    "view_count": 2000000,
+    "like_count": 29200
+   },
+   "summary": {
+    "text": "Fur on couch + Cheshire stickers + trend audio (no VO) → Hold on full blanket — product is the CTA · 7s music-led texture; good for AI/UGC fillers",
+    "caption": "the color amethyst ✨ @Comfrt",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "blanket",
@@ -345,9 +721,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
     "duration": 57.7,
+    "downloaded_from": "https://www.tiktok.com/@katyymorgann1/video/7689108553319091486",
     "hook": [
      {
       "target": 0.0,
@@ -386,9 +762,117 @@
     "close": {
      "t": 56.1,
      "src": "assets/storyboard/7689108553319091486/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7689108553319091486/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7689108553319091486/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7689108553319091486/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7689108553319091486/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7689108553319091486/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7689108553319091486/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7689108553319091486/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7689108553319091486/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7689108553319091486/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7689108553319091486/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7689108553319091486/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7689108553319091486/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7689108553319091486/strip/013.jpg"
+     },
+     {
+      "t": 32.5,
+      "src": "assets/storyboard/7689108553319091486/strip/014.jpg"
+     },
+     {
+      "t": 35.0,
+      "src": "assets/storyboard/7689108553319091486/strip/015.jpg"
+     },
+     {
+      "t": 37.5,
+      "src": "assets/storyboard/7689108553319091486/strip/016.jpg"
+     },
+     {
+      "t": 40.0,
+      "src": "assets/storyboard/7689108553319091486/strip/017.jpg"
+     },
+     {
+      "t": 42.5,
+      "src": "assets/storyboard/7689108553319091486/strip/018.jpg"
+     },
+     {
+      "t": 45.0,
+      "src": "assets/storyboard/7689108553319091486/strip/019.jpg"
+     },
+     {
+      "t": 47.5,
+      "src": "assets/storyboard/7689108553319091486/strip/020.jpg"
+     },
+     {
+      "t": 50.0,
+      "src": "assets/storyboard/7689108553319091486/strip/021.jpg"
+     },
+     {
+      "t": 52.5,
+      "src": "assets/storyboard/7689108553319091486/strip/022.jpg"
+     },
+     {
+      "t": 55.0,
+      "src": "assets/storyboard/7689108553319091486/strip/023.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "the smell is amazing @Comfrt ",
+    "title": "the smell is amazing @Comfrt ",
+    "upload_date": "20260924",
+    "duration": 57,
+    "view_count": 1900000,
+    "like_count": 5614
+   },
+   "summary": {
+    "text": "Hands POV + “coldest winter ever… Lavender Ember Heated.” → Tag / fold edge · Problem (cold) → named SKU → sensory proof",
+    "caption": "the smell is amazing @Comfrt",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "blanket",
@@ -409,9 +893,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
     "duration": 14.58,
+    "downloaded_from": "https://www.tiktok.com/@juliacvlogs/video/7692968801033407758",
     "hook": [
      {
       "target": 0.0,
@@ -450,9 +934,49 @@
     "close": {
      "t": 12.98,
      "src": "assets/storyboard/7692968801033407758/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7692968801033407758/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7692968801033407758/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7692968801033407758/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7692968801033407758/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7692968801033407758/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7692968801033407758/strip/006.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "Need every size @Comfrt  #comfrt #softblanket #blanket ",
+    "title": "Need every size @Comfrt  #comfrt #softblanket #blanket ",
+    "upload_date": "20261005",
+    "duration": 14,
+    "view_count": 2600000,
+    "like_count": 76500
+   },
+   "summary": {
+    "text": "OST “comfrt blanket size comparison.” → Last size lands — shop the size that fits · Silent size ladder; music carries",
+    "caption": "Need every size @Comfrt #comfrt #softblanket #blanket",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "blanket",
@@ -473,9 +997,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
     "duration": 55.17,
+    "downloaded_from": "https://www.tiktok.com/@tayypalmer/video/7666159611958889758",
     "hook": [
      {
       "target": 0.0,
@@ -514,9 +1038,113 @@
     "close": {
      "t": 52.97,
      "src": "assets/storyboard/7666159611958889758/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7666159611958889758/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7666159611958889758/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7666159611958889758/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7666159611958889758/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7666159611958889758/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7666159611958889758/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7666159611958889758/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7666159611958889758/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7666159611958889758/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7666159611958889758/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7666159611958889758/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7666159611958889758/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7666159611958889758/strip/013.jpg"
+     },
+     {
+      "t": 32.5,
+      "src": "assets/storyboard/7666159611958889758/strip/014.jpg"
+     },
+     {
+      "t": 35.0,
+      "src": "assets/storyboard/7666159611958889758/strip/015.jpg"
+     },
+     {
+      "t": 37.5,
+      "src": "assets/storyboard/7666159611958889758/strip/016.jpg"
+     },
+     {
+      "t": 40.0,
+      "src": "assets/storyboard/7666159611958889758/strip/017.jpg"
+     },
+     {
+      "t": 42.5,
+      "src": "assets/storyboard/7666159611958889758/strip/018.jpg"
+     },
+     {
+      "t": 45.0,
+      "src": "assets/storyboard/7666159611958889758/strip/019.jpg"
+     },
+     {
+      "t": 47.5,
+      "src": "assets/storyboard/7666159611958889758/strip/020.jpg"
+     },
+     {
+      "t": 50.0,
+      "src": "assets/storyboard/7666159611958889758/strip/021.jpg"
+     },
+     {
+      "t": 52.5,
+      "src": "assets/storyboard/7666159611958889758/strip/022.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "espresso, latte, dark roast are here 🧋🤎🍂😴 @Mellow Sleep #mellow #oversizedblanket #softblanket #cozybedroom #fallbedding ",
+    "title": "espresso, latte, dark roast are here 🧋🤎🍂😴 @Mellow Sleep #mellow #over...",
+    "upload_date": "20260725",
+    "duration": 55,
+    "view_count": 8400000,
+    "like_count": 43300
+   },
+   "summary": {
+    "text": "In bed: “when you feel this… never leave your bed.” → Stay wrapped — desire > hard ask · Closest to CloudFur “cloud/fluff” language — sensory VO",
+    "caption": "espresso, latte, dark roast are here 🧋🤎🍂😴 @Mellow Sleep #mellow #oversizedblanket #softblanket #cozybedroom #fallbedding",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "blanket",
@@ -537,9 +1165,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
     "duration": 26.4,
+    "downloaded_from": "https://www.tiktok.com/@caitlinsmith_5/video/7688857347162131725",
     "hook": [
      {
       "target": 0.0,
@@ -578,9 +1206,69 @@
     "close": {
      "t": 24.8,
      "src": "assets/storyboard/7688857347162131725/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7688857347162131725/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7688857347162131725/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7688857347162131725/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7688857347162131725/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7688857347162131725/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7688857347162131725/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7688857347162131725/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7688857347162131725/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7688857347162131725/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7688857347162131725/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7688857347162131725/strip/011.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "I’m speechless. It’s stunning 🥹 @Bedsure #weightedblanket #blanket #blankets #cozy #Fall ",
+    "title": "I’m speechless. It’s stunning 🥹 @Bedsure #weightedblanket #blanket #b...",
+    "upload_date": "20260923",
+    "duration": 26,
+    "view_count": 4800000,
+    "like_count": 20700
+   },
+   "summary": {
+    "text": "Flip onto bed + OST “SAND weighted blanket for Fall.” → Music end card — no VO CTA · Color-as-season + flip; high views, mid GMV",
+    "caption": "I’m speechless. It’s stunning 🥹 @Bedsure #weightedblanket #blanket #blankets #cozy #Fall",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "blanket",
@@ -601,9 +1289,9 @@
    "source": "Kalodata/Hermes",
    "as_of": "2026-10-20",
    "thumbnail_url": null,
-   "in_top10": true,
    "frames": {
     "duration": 20.07,
+    "downloaded_from": "https://www.tiktok.com/@hannahbentley/video/7652452797773778189",
     "hook": [
      {
       "target": 0.0,
@@ -642,9 +1330,57 @@
     "close": {
      "t": 18.47,
      "src": "assets/storyboard/7652452797773778189/close.jpg"
-    }
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7652452797773778189/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7652452797773778189/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7652452797773778189/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7652452797773778189/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7652452797773778189/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7652452797773778189/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7652452797773778189/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7652452797773778189/strip/008.jpg"
+     }
+    ]
    },
-   "frames_status": "ok"
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "the mellow drops get better & better ☁️🤎🌒 the new XL espresso and dark roast are HEREE ✨ #mellowsleep #mellow #blanket #cozybedroom @Mellow Sleep ",
+    "title": "the mellow drops get better & better ☁️🤎🌒 the new XL espresso and dar...",
+    "upload_date": "20260617",
+    "duration": 20,
+    "view_count": 2100000,
+    "like_count": 9548
+   },
+   "summary": {
+    "text": "“Serious announcement” → Drop = shop the new colors · Announcement hook + food-color names (maps to CloudFur naming)",
+    "caption": "the mellow drops get better & better ☁️🤎🌒 the new XL espresso and dark roast are HEREE ✨ #mellowsleep #mellow #blanket #cozybedroom @Mellow Sleep",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -665,9 +1401,102 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 22.22,
+    "downloaded_from": "https://www.tiktok.com/@sylviaapproved/video/7691377663906254110",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.0,
+      "src": "assets/storyboard/7691377663906254110/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.9,
+      "src": "assets/storyboard/7691377663906254110/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 1.0,
+      "src": "assets/storyboard/7691377663906254110/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 1.8,
+      "src": "assets/storyboard/7691377663906254110/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 3.4,
+      "src": "assets/storyboard/7691377663906254110/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 4.8,
+     "src": "assets/storyboard/7691377663906254110/hold.jpg"
+    },
+    "body": {
+     "t": 11.31,
+     "src": "assets/storyboard/7691377663906254110/body.jpg"
+    },
+    "close": {
+     "t": 20.62,
+     "src": "assets/storyboard/7691377663906254110/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7691377663906254110/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7691377663906254110/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7691377663906254110/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7691377663906254110/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7691377663906254110/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7691377663906254110/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7691377663906254110/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7691377663906254110/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7691377663906254110/strip/009.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "Best umbrella out there! #umbrella #heavydutyumbrella #rainyday #winter #repelumbrella ",
+    "title": "Best umbrella out there! #umbrella #heavydutyumbrella #rainyday #wint...",
+    "upload_date": "20260930",
+    "duration": 22,
+    "view_count": 16200,
+    "like_count": 38
+   },
+   "summary": {
+    "text": "Compact heavy-duty auto umbrella; open/close, wind resistance, portability",
+    "caption": "Best umbrella out there! #umbrella #heavydutyumbrella #rainyday #winter #repelumbrella",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -688,9 +1517,146 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 50.17,
+    "downloaded_from": "https://www.tiktok.com/@tapa_mondo/video/7694153031432015117",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.4,
+      "src": "assets/storyboard/7694153031432015117/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.5,
+      "src": "assets/storyboard/7694153031432015117/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 0.8,
+      "src": "assets/storyboard/7694153031432015117/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 2.0,
+      "src": "assets/storyboard/7694153031432015117/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 3.4,
+      "src": "assets/storyboard/7694153031432015117/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 5.4,
+     "src": "assets/storyboard/7694153031432015117/hold.jpg"
+    },
+    "body": {
+     "t": 25.08,
+     "src": "assets/storyboard/7694153031432015117/body.jpg"
+    },
+    "close": {
+     "t": 47.97,
+     "src": "assets/storyboard/7694153031432015117/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7694153031432015117/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7694153031432015117/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7694153031432015117/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7694153031432015117/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7694153031432015117/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7694153031432015117/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7694153031432015117/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7694153031432015117/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7694153031432015117/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7694153031432015117/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7694153031432015117/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7694153031432015117/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7694153031432015117/strip/013.jpg"
+     },
+     {
+      "t": 32.5,
+      "src": "assets/storyboard/7694153031432015117/strip/014.jpg"
+     },
+     {
+      "t": 35.0,
+      "src": "assets/storyboard/7694153031432015117/strip/015.jpg"
+     },
+     {
+      "t": 37.5,
+      "src": "assets/storyboard/7694153031432015117/strip/016.jpg"
+     },
+     {
+      "t": 40.0,
+      "src": "assets/storyboard/7694153031432015117/strip/017.jpg"
+     },
+     {
+      "t": 42.5,
+      "src": "assets/storyboard/7694153031432015117/strip/018.jpg"
+     },
+     {
+      "t": 45.0,
+      "src": "assets/storyboard/7694153031432015117/strip/019.jpg"
+     },
+     {
+      "t": 47.5,
+      "src": "assets/storyboard/7694153031432015117/strip/020.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "#automaticumbrella #umbrella #windproofumbrella #umbrellas #tiktokshopcreatorpicks   ",
+    "title": "#automaticumbrella #umbrella #windproofumbrella #umbrellas #tiktoksho...",
+    "upload_date": "20261008",
+    "duration": 50,
+    "view_count": 6478,
+    "like_count": 59
+   },
+   "summary": {
+    "text": "Basic vs Repel outdoors; 9-rib, 100mph, auto open/close, vented canopy",
+    "caption": "#automaticumbrella #umbrella #windproofumbrella #umbrellas #tiktokshopcreatorpicks",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -711,9 +1677,102 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 22.92,
+    "downloaded_from": "https://www.tiktok.com/@sylviaapproved/video/7692131608479943967",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.2,
+      "src": "assets/storyboard/7692131608479943967/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.9,
+      "src": "assets/storyboard/7692131608479943967/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 1.0,
+      "src": "assets/storyboard/7692131608479943967/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 2.4,
+      "src": "assets/storyboard/7692131608479943967/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 3.4,
+      "src": "assets/storyboard/7692131608479943967/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 4.8,
+     "src": "assets/storyboard/7692131608479943967/hold.jpg"
+    },
+    "body": {
+     "t": 11.86,
+     "src": "assets/storyboard/7692131608479943967/body.jpg"
+    },
+    "close": {
+     "t": 20.92,
+     "src": "assets/storyboard/7692131608479943967/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7692131608479943967/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7692131608479943967/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7692131608479943967/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7692131608479943967/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7692131608479943967/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7692131608479943967/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7692131608479943967/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7692131608479943967/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7692131608479943967/strip/009.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "#umbrella #tiktokshopfalldealsforyou #rainyday #rain #shopwithconfidence ",
+    "title": "#umbrella #tiktokshopfalldealsforyou #rainyday #rain #shopwithconfide...",
+    "upload_date": "20261002",
+    "duration": 22,
+    "view_count": 6147,
+    "like_count": 30
+   },
+   "summary": {
+    "text": "Doorway demo; auto open/close for car entry",
+    "caption": "#umbrella #tiktokshopfalldealsforyou #rainyday #rain #shopwithconfidence",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -734,9 +1793,142 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 47.88,
+    "downloaded_from": "https://www.tiktok.com/@its.massielll/video/7693018427660733710",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.2,
+      "src": "assets/storyboard/7693018427660733710/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.5,
+      "src": "assets/storyboard/7693018427660733710/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 0.8,
+      "src": "assets/storyboard/7693018427660733710/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 2.4,
+      "src": "assets/storyboard/7693018427660733710/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 2.8,
+      "src": "assets/storyboard/7693018427660733710/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 5.4,
+     "src": "assets/storyboard/7693018427660733710/hold.jpg"
+    },
+    "body": {
+     "t": 24.34,
+     "src": "assets/storyboard/7693018427660733710/body.jpg"
+    },
+    "close": {
+     "t": 45.88,
+     "src": "assets/storyboard/7693018427660733710/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7693018427660733710/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7693018427660733710/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7693018427660733710/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7693018427660733710/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7693018427660733710/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7693018427660733710/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7693018427660733710/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7693018427660733710/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7693018427660733710/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7693018427660733710/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7693018427660733710/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7693018427660733710/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7693018427660733710/strip/013.jpg"
+     },
+     {
+      "t": 32.5,
+      "src": "assets/storyboard/7693018427660733710/strip/014.jpg"
+     },
+     {
+      "t": 35.0,
+      "src": "assets/storyboard/7693018427660733710/strip/015.jpg"
+     },
+     {
+      "t": 37.5,
+      "src": "assets/storyboard/7693018427660733710/strip/016.jpg"
+     },
+     {
+      "t": 40.0,
+      "src": "assets/storyboard/7693018427660733710/strip/017.jpg"
+     },
+     {
+      "t": 42.5,
+      "src": "assets/storyboard/7693018427660733710/strip/018.jpg"
+     },
+     {
+      "t": 45.0,
+      "src": "assets/storyboard/7693018427660733710/strip/019.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "Súper buena calidad 💯🤌🏻",
+    "title": "Súper buena calidad 💯🤌🏻",
+    "upload_date": "20261005",
+    "duration": 47,
+    "view_count": 4173,
+    "like_count": 49
+   },
+   "summary": {
+    "text": "Bought for sister school; compact backpack fit; black/red",
+    "caption": "Súper buena calidad 💯🤌🏻",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -757,9 +1949,78 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 8.32,
+    "downloaded_from": "https://www.tiktok.com/@sylviaapproved/video/7694356427460070686",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.0,
+      "src": "assets/storyboard/7694356427460070686/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.9,
+      "src": "assets/storyboard/7694356427460070686/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 1.0,
+      "src": "assets/storyboard/7694356427460070686/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 1.8,
+      "src": "assets/storyboard/7694356427460070686/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 3.2,
+      "src": "assets/storyboard/7694356427460070686/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 2.5,
+     "src": "assets/storyboard/7694356427460070686/hold.jpg"
+    },
+    "body": {
+     "t": 4.36,
+     "src": "assets/storyboard/7694356427460070686/body.jpg"
+    },
+    "close": {
+     "t": 7.06,
+     "src": "assets/storyboard/7694356427460070686/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7694356427460070686/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7694356427460070686/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7694356427460070686/strip/003.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "#tiktokshopfalldealsforyou #pink #umbrella #rainyday #rain ",
+    "title": "#tiktokshopfalldealsforyou #pink #umbrella #rainyday #rain ",
+    "upload_date": "20261008",
+    "duration": 8,
+    "view_count": 9838,
+    "like_count": 79
+   },
+   "summary": {
+    "text": "Pink umbrella open/close outdoors; feminine look + durable claim",
+    "caption": "#tiktokshopfalldealsforyou #pink #umbrella #rainyday #rain",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -780,9 +2041,186 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 74.7,
+    "downloaded_from": "https://www.tiktok.com/@mrhotpicks/video/7694099956629507359",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.4,
+      "src": "assets/storyboard/7694099956629507359/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.9,
+      "src": "assets/storyboard/7694099956629507359/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 1.2,
+      "src": "assets/storyboard/7694099956629507359/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 1.8,
+      "src": "assets/storyboard/7694099956629507359/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 3.0,
+      "src": "assets/storyboard/7694099956629507359/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 5.0,
+     "src": "assets/storyboard/7694099956629507359/hold.jpg"
+    },
+    "body": {
+     "t": 37.75,
+     "src": "assets/storyboard/7694099956629507359/body.jpg"
+    },
+    "close": {
+     "t": 73.1,
+     "src": "assets/storyboard/7694099956629507359/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7694099956629507359/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7694099956629507359/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7694099956629507359/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7694099956629507359/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7694099956629507359/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7694099956629507359/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7694099956629507359/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7694099956629507359/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7694099956629507359/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7694099956629507359/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7694099956629507359/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7694099956629507359/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7694099956629507359/strip/013.jpg"
+     },
+     {
+      "t": 32.5,
+      "src": "assets/storyboard/7694099956629507359/strip/014.jpg"
+     },
+     {
+      "t": 35.0,
+      "src": "assets/storyboard/7694099956629507359/strip/015.jpg"
+     },
+     {
+      "t": 37.5,
+      "src": "assets/storyboard/7694099956629507359/strip/016.jpg"
+     },
+     {
+      "t": 40.0,
+      "src": "assets/storyboard/7694099956629507359/strip/017.jpg"
+     },
+     {
+      "t": 42.5,
+      "src": "assets/storyboard/7694099956629507359/strip/018.jpg"
+     },
+     {
+      "t": 45.0,
+      "src": "assets/storyboard/7694099956629507359/strip/019.jpg"
+     },
+     {
+      "t": 47.5,
+      "src": "assets/storyboard/7694099956629507359/strip/020.jpg"
+     },
+     {
+      "t": 50.0,
+      "src": "assets/storyboard/7694099956629507359/strip/021.jpg"
+     },
+     {
+      "t": 52.5,
+      "src": "assets/storyboard/7694099956629507359/strip/022.jpg"
+     },
+     {
+      "t": 55.0,
+      "src": "assets/storyboard/7694099956629507359/strip/023.jpg"
+     },
+     {
+      "t": 57.5,
+      "src": "assets/storyboard/7694099956629507359/strip/024.jpg"
+     },
+     {
+      "t": 60.0,
+      "src": "assets/storyboard/7694099956629507359/strip/025.jpg"
+     },
+     {
+      "t": 62.5,
+      "src": "assets/storyboard/7694099956629507359/strip/026.jpg"
+     },
+     {
+      "t": 65.0,
+      "src": "assets/storyboard/7694099956629507359/strip/027.jpg"
+     },
+     {
+      "t": 67.5,
+      "src": "assets/storyboard/7694099956629507359/strip/028.jpg"
+     },
+     {
+      "t": 70.0,
+      "src": "assets/storyboard/7694099956629507359/strip/029.jpg"
+     },
+     {
+      "t": 72.5,
+      "src": "assets/storyboard/7694099956629507359/strip/030.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "Your kids will actually want this umbrella #umbrella #automaticumbrella #windproofumbrella #rainyseason #umbrellas ",
+    "title": "Your kids will actually want this umbrella #umbrella #automaticumbrel...",
+    "upload_date": "20261008",
+    "duration": 74,
+    "view_count": 7901,
+    "like_count": 15
+   },
+   "summary": {
+    "text": "Flimsy vs durable; fiberglass rods, quick-dry, one-button, kids angle",
+    "caption": "Your kids will actually want this umbrella #umbrella #automaticumbrella #windproofumbrella #rainyseason #umbrellas",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -803,9 +2241,110 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 28.13,
+    "downloaded_from": "https://www.tiktok.com/@marielos_granados/video/7693700292164046093",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.0,
+      "src": "assets/storyboard/7693700292164046093/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.9,
+      "src": "assets/storyboard/7693700292164046093/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 1.4,
+      "src": "assets/storyboard/7693700292164046093/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 1.8,
+      "src": "assets/storyboard/7693700292164046093/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 3.4,
+      "src": "assets/storyboard/7693700292164046093/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 5.0,
+     "src": "assets/storyboard/7693700292164046093/hold.jpg"
+    },
+    "body": {
+     "t": 14.27,
+     "src": "assets/storyboard/7693700292164046093/body.jpg"
+    },
+    "close": {
+     "t": 25.93,
+     "src": "assets/storyboard/7693700292164046093/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7693700292164046093/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7693700292164046093/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7693700292164046093/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7693700292164046093/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7693700292164046093/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7693700292164046093/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7693700292164046093/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7693700292164046093/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7693700292164046093/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7693700292164046093/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7693700292164046093/strip/011.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "Sombrilla multifuncional..#sombría#umbrella #casa#home @UPPER ECHELON PRODUCTS ",
+    "title": "Sombrilla multifuncional..#sombría#umbrella #casa#home @UPPER ECHELON...",
+    "upload_date": "20261006",
+    "duration": 28,
+    "view_count": 1880,
+    "like_count": 6
+   },
+   "summary": {
+    "text": "One-button auto; sturdy ribs; purse-size; color picker CTA",
+    "caption": "Sombrilla multifuncional..#sombría#umbrella #casa#home @UPPER ECHELON PRODUCTS",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -826,9 +2365,118 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 33.25,
+    "downloaded_from": "https://www.tiktok.com/@sasashoo/video/7690360928306777374",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.4,
+      "src": "assets/storyboard/7690360928306777374/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.9,
+      "src": "assets/storyboard/7690360928306777374/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 1.4,
+      "src": "assets/storyboard/7690360928306777374/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 1.8,
+      "src": "assets/storyboard/7690360928306777374/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 3.2,
+      "src": "assets/storyboard/7690360928306777374/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 4.8,
+     "src": "assets/storyboard/7690360928306777374/hold.jpg"
+    },
+    "body": {
+     "t": 16.43,
+     "src": "assets/storyboard/7690360928306777374/body.jpg"
+    },
+    "close": {
+     "t": 31.65,
+     "src": "assets/storyboard/7690360928306777374/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7690360928306777374/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7690360928306777374/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7690360928306777374/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7690360928306777374/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7690360928306777374/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7690360928306777374/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7690360928306777374/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7690360928306777374/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7690360928306777374/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7690360928306777374/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7690360928306777374/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7690360928306777374/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7690360928306777374/strip/013.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "Lifetime warranty, windproof umbrella ☂️. #tiktokshop #umbrella #repelumbrella #newyork ",
+    "title": "Lifetime warranty, windproof umbrella ☂️. #tiktokshop #umbrella #repe...",
+    "upload_date": "20260927",
+    "duration": 33,
+    "view_count": 1309,
+    "like_count": 22
+   },
+   "summary": {
+    "text": "Rainy/windy walk test; windproof; lifetime warranty QR",
+    "caption": "Lifetime warranty, windproof umbrella ☂️. #tiktokshop #umbrella #repelumbrella #newyork",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -849,9 +2497,190 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 77.17,
+    "downloaded_from": "https://www.tiktok.com/@worldsgreatestchad/video/7694302109830827277",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.4,
+      "src": "assets/storyboard/7694302109830827277/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.7,
+      "src": "assets/storyboard/7694302109830827277/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 1.2,
+      "src": "assets/storyboard/7694302109830827277/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 2.2,
+      "src": "assets/storyboard/7694302109830827277/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 3.4,
+      "src": "assets/storyboard/7694302109830827277/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 4.8,
+     "src": "assets/storyboard/7694302109830827277/hold.jpg"
+    },
+    "body": {
+     "t": 38.98,
+     "src": "assets/storyboard/7694302109830827277/body.jpg"
+    },
+    "close": {
+     "t": 74.97,
+     "src": "assets/storyboard/7694302109830827277/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7694302109830827277/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7694302109830827277/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7694302109830827277/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7694302109830827277/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7694302109830827277/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7694302109830827277/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7694302109830827277/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7694302109830827277/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7694302109830827277/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7694302109830827277/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7694302109830827277/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7694302109830827277/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7694302109830827277/strip/013.jpg"
+     },
+     {
+      "t": 32.5,
+      "src": "assets/storyboard/7694302109830827277/strip/014.jpg"
+     },
+     {
+      "t": 35.0,
+      "src": "assets/storyboard/7694302109830827277/strip/015.jpg"
+     },
+     {
+      "t": 37.5,
+      "src": "assets/storyboard/7694302109830827277/strip/016.jpg"
+     },
+     {
+      "t": 40.0,
+      "src": "assets/storyboard/7694302109830827277/strip/017.jpg"
+     },
+     {
+      "t": 42.5,
+      "src": "assets/storyboard/7694302109830827277/strip/018.jpg"
+     },
+     {
+      "t": 45.0,
+      "src": "assets/storyboard/7694302109830827277/strip/019.jpg"
+     },
+     {
+      "t": 47.5,
+      "src": "assets/storyboard/7694302109830827277/strip/020.jpg"
+     },
+     {
+      "t": 50.0,
+      "src": "assets/storyboard/7694302109830827277/strip/021.jpg"
+     },
+     {
+      "t": 52.5,
+      "src": "assets/storyboard/7694302109830827277/strip/022.jpg"
+     },
+     {
+      "t": 55.0,
+      "src": "assets/storyboard/7694302109830827277/strip/023.jpg"
+     },
+     {
+      "t": 57.5,
+      "src": "assets/storyboard/7694302109830827277/strip/024.jpg"
+     },
+     {
+      "t": 60.0,
+      "src": "assets/storyboard/7694302109830827277/strip/025.jpg"
+     },
+     {
+      "t": 62.5,
+      "src": "assets/storyboard/7694302109830827277/strip/026.jpg"
+     },
+     {
+      "t": 65.0,
+      "src": "assets/storyboard/7694302109830827277/strip/027.jpg"
+     },
+     {
+      "t": 67.5,
+      "src": "assets/storyboard/7694302109830827277/strip/028.jpg"
+     },
+     {
+      "t": 70.0,
+      "src": "assets/storyboard/7694302109830827277/strip/029.jpg"
+     },
+     {
+      "t": 72.5,
+      "src": "assets/storyboard/7694302109830827277/strip/030.jpg"
+     },
+     {
+      "t": 75.0,
+      "src": "assets/storyboard/7694302109830827277/strip/031.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "I think I know which Asian umbrella is better #repelumbrella #umbrella #automaticumbrella #tiktokshopfalldealsforyou #stockingstufferideas  ",
+    "title": "I think I know which Asian umbrella is better #repelumbrella #umbrell...",
+    "upload_date": "20261008",
+    "duration": 77,
+    "view_count": 4534,
+    "like_count": 9
+   },
+   "summary": {
+    "text": "Flimsy vs 9 fiberglass ribs / 100mph / UV / one-button",
+    "caption": "I think I know which Asian umbrella is better #repelumbrella #umbrella #automaticumbrella #tiktokshopfalldealsforyou #stockingstufferideas",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   },
   {
    "category": "umbrella",
@@ -872,9 +2701,186 @@
    "source": "Cruva",
    "as_of": "2026-10-22",
    "thumbnail_url": null,
-   "in_top10": false,
-   "frames": null,
-   "frames_status": "not in top 10 (frames not extracted)"
+   "frames": {
+    "duration": 75.51,
+    "downloaded_from": "https://www.tiktok.com/@mileidys_mily/video/7692589468401847565",
+    "hook": [
+     {
+      "target": 0.0,
+      "t": 0.4,
+      "src": "assets/storyboard/7692589468401847565/hook1.jpg"
+     },
+     {
+      "target": 0.5,
+      "t": 0.9,
+      "src": "assets/storyboard/7692589468401847565/hook2.jpg"
+     },
+     {
+      "target": 1.0,
+      "t": 1.4,
+      "src": "assets/storyboard/7692589468401847565/hook3.jpg"
+     },
+     {
+      "target": 2.0,
+      "t": 1.8,
+      "src": "assets/storyboard/7692589468401847565/hook4.jpg"
+     },
+     {
+      "target": 3.0,
+      "t": 3.4,
+      "src": "assets/storyboard/7692589468401847565/hook5.jpg"
+     }
+    ],
+    "hold": {
+     "t": 5.4,
+     "src": "assets/storyboard/7692589468401847565/hold.jpg"
+    },
+    "body": {
+     "t": 37.95,
+     "src": "assets/storyboard/7692589468401847565/body.jpg"
+    },
+    "close": {
+     "t": 73.91,
+     "src": "assets/storyboard/7692589468401847565/close.jpg"
+    },
+    "strip": [
+     {
+      "t": 0.0,
+      "src": "assets/storyboard/7692589468401847565/strip/001.jpg"
+     },
+     {
+      "t": 2.5,
+      "src": "assets/storyboard/7692589468401847565/strip/002.jpg"
+     },
+     {
+      "t": 5.0,
+      "src": "assets/storyboard/7692589468401847565/strip/003.jpg"
+     },
+     {
+      "t": 7.5,
+      "src": "assets/storyboard/7692589468401847565/strip/004.jpg"
+     },
+     {
+      "t": 10.0,
+      "src": "assets/storyboard/7692589468401847565/strip/005.jpg"
+     },
+     {
+      "t": 12.5,
+      "src": "assets/storyboard/7692589468401847565/strip/006.jpg"
+     },
+     {
+      "t": 15.0,
+      "src": "assets/storyboard/7692589468401847565/strip/007.jpg"
+     },
+     {
+      "t": 17.5,
+      "src": "assets/storyboard/7692589468401847565/strip/008.jpg"
+     },
+     {
+      "t": 20.0,
+      "src": "assets/storyboard/7692589468401847565/strip/009.jpg"
+     },
+     {
+      "t": 22.5,
+      "src": "assets/storyboard/7692589468401847565/strip/010.jpg"
+     },
+     {
+      "t": 25.0,
+      "src": "assets/storyboard/7692589468401847565/strip/011.jpg"
+     },
+     {
+      "t": 27.5,
+      "src": "assets/storyboard/7692589468401847565/strip/012.jpg"
+     },
+     {
+      "t": 30.0,
+      "src": "assets/storyboard/7692589468401847565/strip/013.jpg"
+     },
+     {
+      "t": 32.5,
+      "src": "assets/storyboard/7692589468401847565/strip/014.jpg"
+     },
+     {
+      "t": 35.0,
+      "src": "assets/storyboard/7692589468401847565/strip/015.jpg"
+     },
+     {
+      "t": 37.5,
+      "src": "assets/storyboard/7692589468401847565/strip/016.jpg"
+     },
+     {
+      "t": 40.0,
+      "src": "assets/storyboard/7692589468401847565/strip/017.jpg"
+     },
+     {
+      "t": 42.5,
+      "src": "assets/storyboard/7692589468401847565/strip/018.jpg"
+     },
+     {
+      "t": 45.0,
+      "src": "assets/storyboard/7692589468401847565/strip/019.jpg"
+     },
+     {
+      "t": 47.5,
+      "src": "assets/storyboard/7692589468401847565/strip/020.jpg"
+     },
+     {
+      "t": 50.0,
+      "src": "assets/storyboard/7692589468401847565/strip/021.jpg"
+     },
+     {
+      "t": 52.5,
+      "src": "assets/storyboard/7692589468401847565/strip/022.jpg"
+     },
+     {
+      "t": 55.0,
+      "src": "assets/storyboard/7692589468401847565/strip/023.jpg"
+     },
+     {
+      "t": 57.5,
+      "src": "assets/storyboard/7692589468401847565/strip/024.jpg"
+     },
+     {
+      "t": 60.0,
+      "src": "assets/storyboard/7692589468401847565/strip/025.jpg"
+     },
+     {
+      "t": 62.5,
+      "src": "assets/storyboard/7692589468401847565/strip/026.jpg"
+     },
+     {
+      "t": 65.0,
+      "src": "assets/storyboard/7692589468401847565/strip/027.jpg"
+     },
+     {
+      "t": 67.5,
+      "src": "assets/storyboard/7692589468401847565/strip/028.jpg"
+     },
+     {
+      "t": 70.0,
+      "src": "assets/storyboard/7692589468401847565/strip/029.jpg"
+     },
+     {
+      "t": 72.5,
+      "src": "assets/storyboard/7692589468401847565/strip/030.jpg"
+     }
+    ]
+   },
+   "frames_status": "ok",
+   "download_attempts": [],
+   "ytdlp": {
+    "description": "#tiktokshopstockup #tiktokshopcreatorpick ",
+    "title": "#tiktokshopstockup #tiktokshopcreatorpick ",
+    "upload_date": "20261003",
+    "duration": 75,
+    "view_count": 4040,
+    "like_count": 102
+   },
+   "summary": {
+    "text": "Ordered 3 so daughter/mom don't take hers; unbox quality",
+    "caption": "#tiktokshopstockup #tiktokshopcreatorpick",
+    "basis": "deconstruct notes + TikTok caption (yt-dlp)"
+   }
   }
  ]
 }

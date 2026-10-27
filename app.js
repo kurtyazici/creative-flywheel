@@ -66,9 +66,22 @@ function storyboard() {
       <div class="sb-m"><span>GMV <b>${money(metric(v, 'gmv'))}</b></span><span>Views <b>${big(metric(v, 'views'))}</b></span><span class="meta">${esc(v.window)} · <span class="src">${esc(v.source)}</span>${F ? ' · ' + F.duration + 's' : ''}</span>
       <a class="watch" href="${esc(v.video_url)}" target="_blank" rel="noopener">Watch on TikTok ↗</a></div></div>
       <div class="strip"><div class="hook-g"><div class="hook-f">${hooks}</div><p class="note"><b>Hook:</b> ${dash(v.hook)}</p></div><div class="rest">${rest}</div></div>
+      <div class="full"><div class="full-h"><b>Full video</b>${F ? ` <span class="meta">${F.duration}s · ${F.strip.length} frames · 1 per 2.5s</span>` : ''}
+        <button class="play" data-id="${esc(v.video_id)}" data-url="${esc(v.video_url)}">▶ Play</button></div>
+        <p class="sum"><b>Summary:</b> ${dash(v.summary && v.summary.text)}${v.summary && v.summary.caption ? `<br><span class="meta"><b>Caption:</b> ${esc(v.summary.caption)}</span>` : ''}</p>
+        ${F && F.strip.length ? `<div class="film">${F.strip.map(f => `<figure><img src="${esc(f.src)}" alt="@${esc(v.creator)} ${ts(f.t)}" loading="lazy" width="240" height="427"/><figcaption>${ts(f.t)}</figcaption></figure>`).join('')}</div>` : '<p class="meta">Filmstrip unavailable</p>'}
+        <div class="player" hidden></div></div>
       ${F ? '' : `<p class="meta warn">Frames unavailable: ${esc(v.frames_status)}</p>`}${v.steal ? `<p class="meta"><b>Steal:</b> ${esc(v.steal)}</p>` : ''}</article>`; };
   const nf = rows.filter(v => v.frames).length;
-  $('#storyboard').innerHTML = `<p class="meta">${rows.length} videos · ${nf} with real frames (8 per video: 5-frame hook strip + Hold/Body/Close; yt-dlp + ffmpeg; ${esc(sb.meta.selection)}) · ${esc(sb.meta.timestamp_rule)} · generated ${esc(sb.meta.generated)}</p>${rows.map(card).join('') || '<p class="meta">No videos for this filter.</p>'}`;
+  setTimeout(() => document.querySelectorAll('#storyboard .play').forEach(btn => btn.onclick = () => {
+    const box = btn.closest('.full').querySelector('.player'), open = box.hidden;
+    box.hidden = !open; btn.textContent = open ? '✕ Close player' : '▶ Play';
+    if (!open) { box.innerHTML = ''; return; }
+    box.innerHTML = `<blockquote class="tiktok-embed" cite="${esc(btn.dataset.url)}" data-video-id="${esc(btn.dataset.id)}" style="max-width:325px;min-width:325px"><section><a href="${esc(btn.dataset.url)}" target="_blank" rel="noopener">Loading TikTok…</a></section></blockquote>`;
+    if (window.tiktokEmbed && window.tiktokEmbed.lib) window.tiktokEmbed.lib.render(box.querySelectorAll('.tiktok-embed'));
+    else { document.getElementById('tt-embed')?.remove(); const sc = document.createElement('script'); sc.id = 'tt-embed'; sc.async = true; sc.src = 'https://www.tiktok.com/embed.js'; document.body.appendChild(sc); }
+  }), 0);
+  $('#storyboard').innerHTML = `<p class="meta">${rows.length} videos · ${nf} with real frames (5-frame hook strip + Hold/Body/Close + full filmstrip; yt-dlp + ffmpeg; ${esc(sb.meta.selection)}) · ${esc(sb.meta.timestamp_rule)} · generated ${esc(sb.meta.generated)}</p>${rows.map(card).join('') || '<p class="meta">No videos for this filter.</p>'}`;
 }
 const R = {rankings, deconstruct, storyboard, trends, steal, fastmoss};
 const all = () => Object.values(R).forEach(f => f());
