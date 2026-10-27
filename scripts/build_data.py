@@ -96,3 +96,7 @@ for name, obj in [("rankings", rows), ("deconstruct", decon), ("trends", trends)
 if not os.path.exists(f"{OUT}/fastmoss.json"):
     json.dump(dict(rankings=[], deconstruct=[], trends=[]), open(f"{OUT}/fastmoss.json", "w"), indent=1)
 print(len(rows), len(decon), len(trends), len(recipes))
+
+# Storyboard media (oEmbed thumbnails + real frames via yt-dlp/ffmpeg). Skip with NO_MEDIA=1.
+if not os.environ.get("NO_MEDIA"):
+    import subprocess, sys; subprocess.run([sys.executable, f"{R}/scripts/build_storyboard.py"], check=True)

@@ -2,8 +2,7 @@
 
 Find what winning TikTok Shop videos share → make more → cut losers.
 
-**Scope source:** [Jeff one-pager](https://docs.google.com/document/d/1Vja81NaUY9qLDndm7boIUL0-zMo3TwLBYYoAzWKf-vY/edit) (Oct 20, 2026)  
-**ClickUp:** [Creative Flywheel Dashboard: Brief for IT](https://app.clickup.com/t/17tt2gk6tat)  
+**Scope source:** Jeff one-pager (Oct 20, 2026)  
 **Styling refs:** [seat-cushion](https://kurtyazici.github.io/top-seat-cushion-dashboard/seat-cushion-brief/2026/1020.html) · [blanket](https://kurtyazici.github.io/top-blanket-dashboard/blanket-brief/2026/1021.html) · [umbrella](https://kurtyazici.github.io/top-umbrella-dashboard/umbrella-brief/2026/1020.html)
 
 ## Recommended repo
@@ -31,7 +30,7 @@ briefs/category-trending/YYYY/MMDD.html
 | Phase | Source | Briefs unlocked | Status today |
 |-------|--------|-----------------|--------------|
 | 1 | Cruva MCP (`search_videos`, `search_brand_products`, `search_marketplace_products`, categories) | Our winners + all-Shop + category (basic) | **Works now** |
-| 2 | Kalodata (Open API notes in `/workspace/kalodata` + Mini Hermes scrapes) | Richer market virals / category spend | Needs Mini lock / key — do not run from this bot |
+| 2 | Kalodata (Open API notes + Mini Hermes scrapes) | Richer market virals / category spend | Needs Mini lock / key — do not run from this bot |
 | 2b | FastMoss (~$49/mo) | Cross-check AFM vs Kalo | **Do not purchase** until Jeff confirms |
 
 ## Cadence
@@ -46,7 +45,7 @@ Twice weekly (align with Hermes Tue/Fri 8 AM Central product dashboard jobs).
 
 ## Dashboard prototype (Oct 26, 2026)
 
-Static, no build. `python3 -m http.server` → open `/`. Tabs: Rankings · Deconstruct · Form trends · Steal sheet + prompts · FastMoss (coming soon).
+Static, no build. `python3 -m http.server` → open `/`. Tabs: Rankings · Deconstruct · Storyboard · Form trends · Steal sheet + prompts · FastMoss (coming soon).
 Regenerate JSON from on-disk research: `python3 scripts/build_data.py` (reads `blankets/2026-10-23/` + `data/2026-1023/`). Missing values = `null` → shown as "–". Nothing is invented.
 
 ### Data schema (`data/*.json`)
@@ -55,5 +54,6 @@ Every row carries `category` (`blanket`|`umbrella`) and `source` (`Kalodata/Herm
 - `deconstruct.json` — `[ {category, n, creator, product, gmv, views, window, format, video_url, hook, hold, body, close, steal, source, as_of} ]`
 - `trends.json` — `[ {category, layer (Hook|Hold|Body|Close|Format), pattern, count, notes, source, basis} ]`
 - `steal.json` — `{blanket:{source,as_of,brand,do_dont[],recipes[{title,hook,hold,body,close}],checklist[]}, umbrella:{source,as_of,brand,patterns[],prompts{tiktok,ai_video},notes[]}}`
+- `storyboard.json` — `{meta, videos:[deconstruct row + video_id, thumbnail_url, in_top10, frames{hook,hold,body,close}→assets/storyboard/<video_id>/*.jpg, timestamps{duration,hook,hold,body,close}, frames_status]}`. Built by `scripts/build_storyboard.py` (run from `build_data.py`; `NO_MEDIA=1` skips): TikTok oEmbed thumbnail per video + real frames (yt-dlp + ffmpeg, 360px JPG) for the top 10 by GMV (blankets first). Failed downloads → `frames:null`, UI shows "Frame unavailable".
 - `meta.json` — as-of dates + source list.
 - `fastmoss.json` — **FastMoss slot (coming soon)**: `{rankings:[],deconstruct:[],trends:[]}` using the same row schemas with `"source":"FastMoss"`; rows merge into every tab automatically.
