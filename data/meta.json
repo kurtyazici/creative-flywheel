@@ -1,0 +1,27 @@
+{
+ "generated_from": [
+  "blankets/2026-10-23/",
+  "data/2026-1023/"
+ ],
+ "as_of": {
+  "blanket": "2026-10-20",
+  "umbrella": "2026-10-22"
+ },
+ "sources": [
+  {
+   "id": "Kalodata/Hermes",
+   "status": "live",
+   "note": "Blanket market (Hermes Kalodata browser collection)"
+  },
+  {
+   "id": "Cruva",
+   "status": "live",
+   "note": "Repel umbrella marketplace + our winners (Cruva MCP)"
+  },
+  {
+   "id": "FastMoss",
+   "status": "coming soon",
+   "note": "Drop rows into data/fastmoss.json with the same schema"
+  }
+ ]
+}

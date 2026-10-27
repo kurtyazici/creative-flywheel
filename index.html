@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>UEP Creative Flywheel</title><link rel="icon" href="data:,"/><link rel="stylesheet" href="style.css"/></head>
+<body>
+<header><div><h1>Creative Flywheel</h1><div class="meta">Kurt Yazici · UEP TikTok Shop · CloudFur blankets + Repel umbrellas</div></div>
+<div class="meta" id="asof">Loading…</div></header>
+<div class="loop">Market rankings → Hook / Hold / Body / Close → Form trends → Steal sheet &amp; daily prompts</div>
+<nav id="tabs">
+<button data-tab="rankings" class="on">Rankings</button><button data-tab="deconstruct">Deconstruct</button>
+<button data-tab="trends">Form trends</button><button data-tab="steal">Steal sheet + prompts</button>
+<button data-tab="fastmoss" class="soon">FastMoss (coming soon)</button></nav>
+<div class="filters">Category:
+<select id="cat"><option value="all">All</option><option value="blanket">Blanket</option><option value="umbrella">Umbrella</option></select>
+Source: <select id="src"><option value="all">All</option></select></div>
+<main>
+<section id="rankings"></section><section id="deconstruct" hidden></section><section id="trends" hidden></section>
+<section id="steal" hidden></section><section id="fastmoss" hidden></section>
+</main>
+<footer class="meta">Data from on-disk research only. “–” = not in source. Rebuild JSON: <code>python3 scripts/build_data.py</code></footer>
+<script src="app.js"></script></body></html>

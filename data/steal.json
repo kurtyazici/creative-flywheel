@@ -1,0 +1,91 @@
+{
+ "blanket": {
+  "source": "Kalodata/Hermes",
+  "as_of": "2026-10-20",
+  "brand": "CloudFur",
+  "do_dont": [
+   {
+    "do": "Show scale (drop, stretch on bed, king coverage)",
+    "dont": "Claim heat / lavender / weighted unless CloudFur SKU has it"
+   },
+   {
+    "do": "Name the color like a character",
+    "dont": "Copy Comfrt/Mellow brand names or OST text verbatim"
+   },
+   {
+    "do": "Hands-in-fur 1–2s hold",
+    "dont": "Feature laundry lists"
+   },
+   {
+    "do": "Soft CTA: “grab your color” / “size that fits”",
+    "dont": "Fake “4 hours left” unless real offer"
+   }
+  ],
+  "recipes": [
+   {
+    "title": "A. Collection / abundance (from Comfrt #1/#4)",
+    "hook": "Camera on a pile of CloudFur throws (or one hero + folded stack). Start counting or “I may have a problem…”",
+    "hold": "Keep counting / fluffing the pile.",
+    "body": "“This is the [Color] — same cloud fur as the rest.”",
+    "close": "“Pick the color you’d actually leave out on the couch.”"
+   },
+   {
+    "title": "B. New-color unbox (from #2 / Mellow #10)",
+    "hook": "Box or folded drop-in: “CloudFur just hit [ColorName].”",
+    "hold": "Rip / unfold → face into fur.",
+    "body": "Drape on bed; one size line (“covers the whole couch”).",
+    "close": "In-frame wrap + “link on the throw.”"
+   },
+   {
+    "title": "C. 7s texture ASMR (from #5)",
+    "hook": "Trend audio + CloudFur already on couch.",
+    "hold": "Hand sinks 2 beats.",
+    "body": "Slow pan of pile/drape.",
+    "close": "Freeze on product — no VO needed."
+   },
+   {
+    "title": "D. Size ladder (from #7/#12)",
+    "hook": "On-screen “CloudFur size check” (or OST equivalent you own).",
+    "hold": "Drop or hold each size in order.",
+    "body": "One line per size (lap / couch / bed) — only if sizes are real.",
+    "close": "“Get the one that fits your [couch/bed].”"
+   },
+   {
+    "title": "E. Sensory bed VO (from Mellow #8 — closest cousin)",
+    "hook": "In bed under CloudFur: “You’re not getting up after this.”",
+    "hold": "Word hits on screen: cloud · fluffy · soft (your words, not theirs).",
+    "body": "Hands + cheek on fur; show drape width.",
+    "close": "Soft ask — “your color’s in the cart.”"
+   }
+  ],
+  "checklist": [
+   "At least one **texture hold** (hands-in).",
+   "At least one **scale proof** (drop or full-bed).",
+   "One **color-name** hook this week.",
+   "CTA = shop color/size — not fake urgency.",
+   "Skip heated/lavender/weighted scripts unless the SKU matches."
+  ]
+ },
+ "umbrella": {
+  "source": "Cruva",
+  "as_of": "2026-10-22",
+  "brand": "Repel",
+  "patterns": [
+   "Auto open AND auto close is the #1 demo beat (button press on camera).",
+   "100 mph / windproof claim is the highest-scoring hook pattern (scores 8–9).",
+   "Comparison frames win: basic vs Repel, Chinese vs Japanese, kids-hate-cheap.",
+   "Car-entry / purse-backpack compact storage is the top lifestyle pain.",
+   "ES creators convert (gift for sister, 'se abre sola') — keep bilingual briefs.",
+   "Extreme-weather proof (nor'easter) had best ROI ($7.36) despite low views."
+  ],
+  "prompts": {
+   "tiktok": "Film a 20–35s vertical Repel umbrella demo. Hook in first 2s with a wind or auto-close claim (\"takes 100 mph wind\" OR \"opens AND closes with one button\"). Show: (1) one-button open, (2) one-button close, (3) fold into purse/backpack or car door entry without getting wet, (4) 9-rib / double-vented canopy close-up. Optional: hold a cheap flimsy umbrella next to it for 3s. End with color options + orange cart CTA. Talk natural, no price war. Lifetime warranty line optional.",
+   "ai_video": "Vertical 9:16 UGC-style product video, 25 seconds. Woman 25–40 outdoors on a windy overcast day holds a black compact travel umbrella with red inner canopy. Beat 1 (0–3s): look to camera — \"this umbrella takes 100 mph wind.\" Beat 2: press button, canopy snaps open, wind gusts but canopy holds, vented double layer visible. Beat 3: press button, auto-closes, slides into tote/backpack. Beat 4: quick cut comparing a bent cheap metal umbrella vs this 9-rib fiberglass frame. Natural handheld selfie angle, soft daylight, no text overlays, no logos beyond product, end on product in hand with subtle smile. Photoreal, TikTok native."
+  },
+  "notes": [
+   "CloudFur faux-fur throw (1732655825084190939) had $587 30d GMV but $0 video GMV / no videos in window — used Repel umbrella to prove winners path.",
+   "Primary metric GMV; early signal views+comments included per Jeff one-pager.",
+   "Kalodata/FastMoss NOT used in this sample — phase 2."
+  ]
+ }
+}

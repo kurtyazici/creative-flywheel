@@ -1,0 +1,245 @@
+[
+ {
+  "category": "blanket",
+  "layer": "Hook",
+  "pattern": "Deal / urgency OST or coupon",
+  "count": 5,
+  "notes": "#3,#7,#8,#11,#19",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Hook",
+  "pattern": "Collection / abundance count",
+  "count": 2,
+  "notes": "#1,#4 — highest GMV cluster",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Hook",
+  "pattern": "New color / drop announcement",
+  "count": 3,
+  "notes": "#2,#5,#20",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Hook",
+  "pattern": "Feature claim (heat/scent/weighted)",
+  "count": 4,
+  "notes": "#6,#9,#15,#17",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Hook",
+  "pattern": "Size-compare tease",
+  "count": 2,
+  "notes": "#10,#12",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Hook",
+  "pattern": "Aesthetic flip + music (no VO)",
+  "count": 2,
+  "notes": "#14,#16 Bedsure",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Hold",
+  "pattern": "Hands-in-fur / texture close-up",
+  "count": 6,
+  "notes": "Sensory proof",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Hold",
+  "pattern": "On-bed wrap / lie-down",
+  "count": 5,
+  "notes": "Payoff comfort",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Hold",
+  "pattern": "Balcony / drop size reveal",
+  "count": 3,
+  "notes": "Scale proof",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Hold",
+  "pattern": "Bag rip / unbox",
+  "count": 2,
+  "notes": "Opening ritual",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Body",
+  "pattern": "Size + weight spoken or shown",
+  "count": 5,
+  "notes": "“covers king”, XL drops",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Body",
+  "pattern": "Value vs “expensive brand”",
+  "count": 3,
+  "notes": "Soft dupe angle",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Body",
+  "pattern": "Color-name flex",
+  "count": 4,
+  "notes": "Amethyst, Espresso, Moss, Sand",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Body",
+  "pattern": "Heat / lavender / weighted feature",
+  "count": 5,
+  "notes": "Comfrt Heated + Bedsure weighted",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Close",
+  "pattern": "Sale / coupon / hours-left CTA",
+  "count": 6,
+  "notes": "Strongest with deal hooks",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Close",
+  "pattern": "Gift / stock-up CTA",
+  "count": 2,
+  "notes": "Collection flex endings",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "blanket",
+  "layer": "Close",
+  "pattern": "Softest-ever claim (soft CTA)",
+  "count": 4,
+  "notes": "Often implied, not hard ask",
+  "source": "Kalodata/Hermes",
+  "basis": "top-20 30d videos (n=20), multi-bucket"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "demo + feature claim",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "side-by-side comparison",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "pain-point talking head",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "gift / family use-case (ES)",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "product beauty B-roll",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "pain → solution comparison",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "unique claim demo (ES)",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "extreme weather proof",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "provocative comparison",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ },
+ {
+  "category": "umbrella",
+  "layer": "Format",
+  "pattern": "multi-buy / family stock",
+  "count": 1,
+  "notes": null,
+  "source": "Cruva",
+  "basis": "Repel our-winners (n=10), format label per video"
+ }
+]
