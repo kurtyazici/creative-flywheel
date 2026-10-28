@@ -16,3 +16,22 @@
  .watch,.play{min-height:44px;padding:10px 16px;font-size:15px;display:inline-flex;align-items:center}
  .meta{font-size:13px}
 }
+/* v2 timeline layout */
+.script{margin:8px 0;padding:8px 12px;border-left:3px solid #e0b43a;background:rgba(224,180,58,.08);font-size:15px;line-height:1.45}
+.beats{display:grid;grid-template-columns:repeat(8,minmax(0,1fr));gap:8px;margin:8px 0}
+.bt{margin:0;display:flex;flex-direction:column;gap:4px}
+.bt img,.tl img{width:100%;height:auto;aspect-ratio:9/16;object-fit:cover;border-radius:6px;display:block}
+.bt.hd,.bt.bd,.bt.cl{border-left:2px solid #ddd;padding-left:6px}
+.beat-l i{font-weight:400;opacity:.7}
+.say{margin:0;font-size:13px;line-height:1.35;min-height:1em}
+.say.gist{font-style:italic;opacity:.85}
+.tl{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px 8px;margin:8px 0}
+.tl figure{margin:0;display:flex;flex-direction:column;gap:3px}
+.tl figcaption{font-size:12px;opacity:.7}
+details.tx{margin-top:6px}details.tx summary{cursor:pointer;font-weight:600;padding:6px 0}
+details.tx p{margin:2px 0;font-size:14px}
+@media(max-width:700px){
+ .beats,.tl{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:8px}
+ .beats .bt{flex:0 0 40%;scroll-snap-align:start}
+ .tl figure{flex:0 0 34%;scroll-snap-align:start}
+}
