@@ -8,6 +8,11 @@ const P = p => '../' + p;
 const img = (f, alt, w, h) => f ? `<img src="${esc(P(f.src))}" alt="${esc(alt)}" loading="lazy" width="${w}" height="${h}"/>` : '<div class="ph"><span>Frame unavailable</span></div>';
 const say = (t, cls) => `<p class="say ${cls || ''}">${t ? esc(t) : '<span class="gap"></span>'}</p>`;
 const beat = (label, f, v, text, cls, kind) => `<figure class="bt ${cls}"><figcaption class="beat-l">${label}${f ? ' ' + ts(f.t) : ''}${kind ? ` <i>${kind}</i>` : ''}</figcaption>${img(f, label + ' @' + v.creator, 360, 640)}${say(text, kind ? 'gist' : '')}</figure>`;
+const BT=[['hk','H','Hook'],['ho','Ho','Hold'],['bo','B','Body'],['cl','C','Close']];
+const bwin = (v) => { const W = v.tx && v.tx.windows; if (W) return [W.hook[0], W.hold[0], W.body[0], W.close[0]]; const D = v.frames ? v.frames.duration : 0, he = Math.min(Math.max((v.frames && v.frames.hold ? v.frames.hold.t : 3) + 2.5, 6), D); return [0, 3, he, Math.max(he, D - 5)]; };
+const bof = (st, t) => { let k = 0; st.forEach((b, i) => { if (t >= b - 0.01) k = i; }); return k; };
+const pill = (k, long) => `<span class="bp ${BT[k][0]}" title="${BT[k][2]}">${long ? BT[k][2] : BT[k][1]}</span>`;
+const legend = '<span class="bleg">' + BT.map((b, k) => pill(k, true)).join('') + '</span>';
 const card = v => { const F = v.frames, X = v.tx && v.tx.speech ? v.tx : null;
   const hooks = F ? F.hook.map((h, i) => beat('HOOK', h, v, X && X.hook[i], 'hk')).join('') : '';
   const rest = F ? beat('HOLD', F.hold, v, X && X.hold, 'hd') + beat('BODY', F.body, v, X && X.body, 'bd', 'summary') + beat('CLOSE', F.close, v, X && X.close, 'cl', 'summary') : '';
@@ -19,13 +24,13 @@ const card = v => { const F = v.frames, X = v.tx && v.tx.speech ? v.tx : null;
     ${v.note ? `<p class="meta">${esc(v.note)}</p>` : ''}
     ${script ? `<blockquote class="script"><b>Hook + hold script${X.translated ? ' (translated from ' + esc(X.language) + ')' : ''}:</b> “${esc(script)}”</blockquote>` : nospeech}
     <div class="beats">${hooks}${rest}</div>
-    <div class="full"><div class="full-h"><b>Timeline</b>${F ? ` <span class="meta">${F.duration}s · 1 frame per 2.5s · words spoken in each window</span>` : ''}
+    <div class="full"><div class="full-h"><b>Timeline</b> ${legend}${F ? ` <span class="meta">${F.duration}s · 1 frame per 2.5s · words spoken in each window</span>` : ''}
       <button class="play" data-id="${esc(v.video_id)}" data-url="${esc(v.url)}">▶ Play</button></div>
-      ${F && F.strip.length ? `<div class="tl">${F.strip.map((f, i) => `<figure><figcaption>${ts(f.t)}</figcaption>${img(f, ts(f.t), 240, 427)}${say(X && X.strip[i])}</figure>`).join('')}</div>` : '<p class="meta">Filmstrip unavailable</p>'}
+      ${F && F.strip.length ? (() => { const st = bwin(v); let prev = -1; return `<div class="tl">${F.strip.map((f, i) => { const k = bof(st, f.t), first = k !== prev; prev = k; return `<figure class="tb ${BT[k][0]}${first ? ' start' : ''}"><figcaption>${first ? pill(k) + ' ' : ''}${ts(f.t)}</figcaption>${img(f, ts(f.t), 240, 427)}${say(X && X.strip[i])}</figure>`; }).join('')}</div>`; })() : '<p class="meta">Filmstrip unavailable</p>'}
       <div class="player" hidden></div>
       <p class="sum"><b>Summary:</b> ${X ? esc(X.summary) : '–'} <span class="meta">(opening lines of transcript)</span></p>
       <p class="sum meta"><b>Caption:</b> ${v.caption ? esc(v.caption.replace(/\s+/g, ' ')) : '–'}</p>
-      ${X ? `<details class="tx"><summary>Full transcript${X.translated ? ' (English translation)' : ''}</summary>${X.full.map(([t, s]) => `<p><span class="meta">${ts(Math.floor(t))}</span> ${esc(s)}</p>`).join('')}</details>` : ''}</div>
+      ${X ? `<details class="tx"><summary>Full transcript${X.translated ? ' (English translation)' : ''}</summary>${(() => { const st = bwin(v); let prev = -1; return '<div class="txl">' + X.full.map(([t, s]) => { const k = bof(st, t), first = k !== prev; prev = k; return `${first ? `<div class="txh ${BT[k][0]}">${pill(k)} ${BT[k][2]} <span class="meta">from ${ts(Math.floor(st[k]))}</span></div>` : ''}<p class="tb ${BT[k][0]}"><span class="meta">${ts(Math.floor(t))}</span> ${esc(s)}</p>`; }).join('') + '</div>'; })()}</details>` : ''}</div>
     ${F ? '' : `<p class="meta warn">Frames unavailable: ${esc(v.frames_status)}</p>`}</article>`; };
 fetch('../data/community.json').then(r => r.json()).then(d => {
   $('#asof').textContent = `Window ${d.meta.window} · ${d.meta.source} · generated ${d.meta.generated}`;
