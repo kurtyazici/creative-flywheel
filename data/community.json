@@ -1,0 +1,3793 @@
+{
+ "meta": {
+  "generated": "2026-10-28T13:09-05:00",
+  "window": "2026-09-28 → 2026-10-28",
+  "source": "Cruva MCP",
+  "timestamp_rule": "Hook strip 0/0.5/1/2/3s; Hold ~5s, Body middle, Close end-2s; filmstrip 1 frame/2.5s"
+ },
+ "sections": [
+  {
+   "id": "ours",
+   "title": "1 · Top 10 Repel umbrella videos — our shop (UEP)",
+   "basis": "Cruva search_videos (timeseries), shop Upper Echelon Products, window 2026-09-28 → 2026-10-28, sorted by video GMV in window, filtered to Repel umbrella product IDs. GMV/views = in-window.",
+   "videos": [
+    {
+     "creator": "sylviaapproved",
+     "video_id": "7691377663906254110",
+     "url": "https://www.tiktok.com/@sylviaapproved/video/7691377663906254110",
+     "product": "Repel 9-Rib Automatic Folding Umbrella (100MPH windproof)",
+     "product_id": "1732530504119718107",
+     "gmv": 162.65,
+     "views": 16500,
+     "posted": "09/30/2026",
+     "frames": {
+      "duration": 22.22,
+      "downloaded_from": "https://www.tiktok.com/@sylviaapproved/video/7691377663906254110",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7691377663906254110/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7691377663906254110/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.0,
+        "src": "assets/storyboard/7691377663906254110/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7691377663906254110/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7691377663906254110/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7691377663906254110/hold.jpg"
+      },
+      "body": {
+       "t": 11.31,
+       "src": "assets/storyboard/7691377663906254110/body.jpg"
+      },
+      "close": {
+       "t": 20.62,
+       "src": "assets/storyboard/7691377663906254110/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7691377663906254110/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7691377663906254110/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7691377663906254110/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7691377663906254110/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7691377663906254110/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7691377663906254110/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7691377663906254110/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7691377663906254110/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7691377663906254110/strip/009.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Best umbrella out there! #umbrella #heavydutyumbrella #rainyday #winter #repelumbrella ",
+     "rank": 1
+    },
+    {
+     "creator": "tapa_mondo",
+     "video_id": "7694153031432015117",
+     "url": "https://www.tiktok.com/@tapa_mondo/video/7694153031432015117",
+     "product": "Repel 9-Rib Automatic Folding Umbrella (100MPH windproof)",
+     "product_id": "1732530504119718107",
+     "gmv": 153.57,
+     "views": 6251,
+     "posted": "10/08/2026",
+     "frames": {
+      "duration": 50.17,
+      "downloaded_from": "https://www.tiktok.com/@tapa_mondo/video/7694153031432015117",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7694153031432015117/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7694153031432015117/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7694153031432015117/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7694153031432015117/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7694153031432015117/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7694153031432015117/hold.jpg"
+      },
+      "body": {
+       "t": 25.08,
+       "src": "assets/storyboard/7694153031432015117/body.jpg"
+      },
+      "close": {
+       "t": 47.97,
+       "src": "assets/storyboard/7694153031432015117/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7694153031432015117/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7694153031432015117/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7694153031432015117/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7694153031432015117/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7694153031432015117/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7694153031432015117/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7694153031432015117/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7694153031432015117/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7694153031432015117/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7694153031432015117/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7694153031432015117/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7694153031432015117/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7694153031432015117/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7694153031432015117/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7694153031432015117/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7694153031432015117/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7694153031432015117/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7694153031432015117/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7694153031432015117/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7694153031432015117/strip/020.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "#automaticumbrella #umbrella #windproofumbrella #umbrellas #tiktokshopcreatorpicks   ",
+     "rank": 2
+    },
+    {
+     "creator": "j_david_hernandez",
+     "video_id": "7558265983580818743",
+     "url": "https://www.tiktok.com/@j_david_hernandez/video/7558265983580818743",
+     "product": "Multi-product video: magnetic screen door + Rain-Mate umbrella (1729449384565117147); GMV is the whole video, not umbrella-only",
+     "product_id": "1729391862339113179",
+     "gmv": 121.83,
+     "views": 9410,
+     "posted": "10/07/2025",
+     "frames": {
+      "duration": 90.1,
+      "downloaded_from": "https://www.tiktok.com/@j_david_hernandez/video/7558265983580818743",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7558265983580818743/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7558265983580818743/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7558265983580818743/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7558265983580818743/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7558265983580818743/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7558265983580818743/hold.jpg"
+      },
+      "body": {
+       "t": 45.05,
+       "src": "assets/storyboard/7558265983580818743/body.jpg"
+      },
+      "close": {
+       "t": 88.5,
+       "src": "assets/storyboard/7558265983580818743/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7558265983580818743/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7558265983580818743/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7558265983580818743/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7558265983580818743/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7558265983580818743/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7558265983580818743/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7558265983580818743/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7558265983580818743/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7558265983580818743/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7558265983580818743/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7558265983580818743/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7558265983580818743/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7558265983580818743/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7558265983580818743/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7558265983580818743/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7558265983580818743/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7558265983580818743/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7558265983580818743/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7558265983580818743/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7558265983580818743/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7558265983580818743/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7558265983580818743/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7558265983580818743/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7558265983580818743/strip/024.jpg"
+       },
+       {
+        "t": 60.0,
+        "src": "assets/storyboard/7558265983580818743/strip/025.jpg"
+       },
+       {
+        "t": 62.5,
+        "src": "assets/storyboard/7558265983580818743/strip/026.jpg"
+       },
+       {
+        "t": 65.0,
+        "src": "assets/storyboard/7558265983580818743/strip/027.jpg"
+       },
+       {
+        "t": 67.5,
+        "src": "assets/storyboard/7558265983580818743/strip/028.jpg"
+       },
+       {
+        "t": 70.0,
+        "src": "assets/storyboard/7558265983580818743/strip/029.jpg"
+       },
+       {
+        "t": 72.5,
+        "src": "assets/storyboard/7558265983580818743/strip/030.jpg"
+       },
+       {
+        "t": 75.0,
+        "src": "assets/storyboard/7558265983580818743/strip/031.jpg"
+       },
+       {
+        "t": 77.5,
+        "src": "assets/storyboard/7558265983580818743/strip/032.jpg"
+       },
+       {
+        "t": 80.0,
+        "src": "assets/storyboard/7558265983580818743/strip/033.jpg"
+       },
+       {
+        "t": 82.5,
+        "src": "assets/storyboard/7558265983580818743/strip/034.jpg"
+       },
+       {
+        "t": 85.0,
+        "src": "assets/storyboard/7558265983580818743/strip/035.jpg"
+       },
+       {
+        "t": 87.5,
+        "src": "assets/storyboard/7558265983580818743/strip/036.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Adiós mosquitos, hola aire fresco 😌🦟❌ #magneticscreendoor #screenprotector #bugproof #tiktokshopfalldealsforyou #tiktokshopcreatorpicks ",
+     "rank": 3,
+     "note": "Posted 2025-10-07; GMV shown is in-window (2026-09-28 → 10-28)"
+    },
+    {
+     "creator": "sylviaapproved",
+     "video_id": "7692131608479943967",
+     "url": "https://www.tiktok.com/@sylviaapproved/video/7692131608479943967",
+     "product": "Repel 9-Rib Automatic Folding Umbrella (100MPH windproof)",
+     "product_id": "1732530504119718107",
+     "gmv": 74.83,
+     "views": 6266,
+     "posted": "10/02/2026",
+     "frames": {
+      "duration": 22.92,
+      "downloaded_from": "https://www.tiktok.com/@sylviaapproved/video/7692131608479943967",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.2,
+        "src": "assets/storyboard/7692131608479943967/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7692131608479943967/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.0,
+        "src": "assets/storyboard/7692131608479943967/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7692131608479943967/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7692131608479943967/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7692131608479943967/hold.jpg"
+      },
+      "body": {
+       "t": 11.86,
+       "src": "assets/storyboard/7692131608479943967/body.jpg"
+      },
+      "close": {
+       "t": 20.92,
+       "src": "assets/storyboard/7692131608479943967/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7692131608479943967/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7692131608479943967/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7692131608479943967/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7692131608479943967/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7692131608479943967/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7692131608479943967/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7692131608479943967/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7692131608479943967/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7692131608479943967/strip/009.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "#umbrella #tiktokshopfalldealsforyou #rainyday #rain #shopwithconfidence ",
+     "rank": 4
+    },
+    {
+     "creator": "its.massielll",
+     "video_id": "7693018427660733710",
+     "url": "https://www.tiktok.com/@its.massielll/video/7693018427660733710",
+     "product": "Repel 9-Rib Automatic Folding Umbrella (100MPH windproof)",
+     "product_id": "1732530504119718107",
+     "gmv": 68.61,
+     "views": 4559,
+     "posted": "10/05/2026",
+     "frames": {
+      "duration": 47.88,
+      "downloaded_from": "https://www.tiktok.com/@its.massielll/video/7693018427660733710",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.2,
+        "src": "assets/storyboard/7693018427660733710/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7693018427660733710/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7693018427660733710/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7693018427660733710/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7693018427660733710/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7693018427660733710/hold.jpg"
+      },
+      "body": {
+       "t": 24.34,
+       "src": "assets/storyboard/7693018427660733710/body.jpg"
+      },
+      "close": {
+       "t": 45.88,
+       "src": "assets/storyboard/7693018427660733710/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7693018427660733710/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7693018427660733710/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7693018427660733710/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7693018427660733710/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7693018427660733710/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7693018427660733710/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7693018427660733710/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7693018427660733710/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7693018427660733710/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7693018427660733710/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7693018427660733710/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7693018427660733710/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7693018427660733710/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7693018427660733710/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7693018427660733710/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7693018427660733710/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7693018427660733710/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7693018427660733710/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7693018427660733710/strip/019.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Súper buena calidad 💯🤌🏻",
+     "rank": 5
+    },
+    {
+     "creator": "sylviaapproved",
+     "video_id": "7694356427460070686",
+     "url": "https://www.tiktok.com/@sylviaapproved/video/7694356427460070686",
+     "product": "Repel 9-Rib Automatic Folding Umbrella (100MPH windproof)",
+     "product_id": "1732530504119718107",
+     "gmv": 64.05,
+     "views": 10881,
+     "posted": "10/08/2026",
+     "frames": {
+      "duration": 8.32,
+      "downloaded_from": "https://www.tiktok.com/@sylviaapproved/video/7694356427460070686",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7694356427460070686/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7694356427460070686/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.0,
+        "src": "assets/storyboard/7694356427460070686/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7694356427460070686/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7694356427460070686/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 2.5,
+       "src": "assets/storyboard/7694356427460070686/hold.jpg"
+      },
+      "body": {
+       "t": 4.36,
+       "src": "assets/storyboard/7694356427460070686/body.jpg"
+      },
+      "close": {
+       "t": 7.06,
+       "src": "assets/storyboard/7694356427460070686/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7694356427460070686/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7694356427460070686/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7694356427460070686/strip/003.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "#tiktokshopfalldealsforyou #pink #umbrella #rainyday #rain ",
+     "rank": 6
+    },
+    {
+     "creator": "mrhotpicks",
+     "video_id": "7694099956629507359",
+     "url": "https://www.tiktok.com/@mrhotpicks/video/7694099956629507359",
+     "product": "Repel 9-Rib Automatic Folding Umbrella (100MPH windproof)",
+     "product_id": "1732530504119718107",
+     "gmv": 59.97,
+     "views": 5509,
+     "posted": "10/08/2026",
+     "frames": {
+      "duration": 74.7,
+      "downloaded_from": "https://www.tiktok.com/@mrhotpicks/video/7694099956629507359",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7694099956629507359/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7694099956629507359/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7694099956629507359/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7694099956629507359/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.0,
+        "src": "assets/storyboard/7694099956629507359/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.0,
+       "src": "assets/storyboard/7694099956629507359/hold.jpg"
+      },
+      "body": {
+       "t": 37.75,
+       "src": "assets/storyboard/7694099956629507359/body.jpg"
+      },
+      "close": {
+       "t": 73.1,
+       "src": "assets/storyboard/7694099956629507359/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7694099956629507359/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7694099956629507359/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7694099956629507359/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7694099956629507359/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7694099956629507359/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7694099956629507359/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7694099956629507359/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7694099956629507359/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7694099956629507359/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7694099956629507359/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7694099956629507359/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7694099956629507359/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7694099956629507359/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7694099956629507359/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7694099956629507359/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7694099956629507359/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7694099956629507359/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7694099956629507359/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7694099956629507359/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7694099956629507359/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7694099956629507359/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7694099956629507359/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7694099956629507359/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7694099956629507359/strip/024.jpg"
+       },
+       {
+        "t": 60.0,
+        "src": "assets/storyboard/7694099956629507359/strip/025.jpg"
+       },
+       {
+        "t": 62.5,
+        "src": "assets/storyboard/7694099956629507359/strip/026.jpg"
+       },
+       {
+        "t": 65.0,
+        "src": "assets/storyboard/7694099956629507359/strip/027.jpg"
+       },
+       {
+        "t": 67.5,
+        "src": "assets/storyboard/7694099956629507359/strip/028.jpg"
+       },
+       {
+        "t": 70.0,
+        "src": "assets/storyboard/7694099956629507359/strip/029.jpg"
+       },
+       {
+        "t": 72.5,
+        "src": "assets/storyboard/7694099956629507359/strip/030.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Your kids will actually want this umbrella #umbrella #automaticumbrella #windproofumbrella #rainyseason #umbrellas ",
+     "rank": 7
+    },
+    {
+     "creator": "marielos_granados",
+     "video_id": "7693700292164046093",
+     "url": "https://www.tiktok.com/@marielos_granados/video/7693700292164046093",
+     "product": "Repel 9-Rib Automatic Folding Umbrella (100MPH windproof)",
+     "product_id": "1732530504119718107",
+     "gmv": 54.28,
+     "views": 1693,
+     "posted": "10/06/2026",
+     "frames": {
+      "duration": 28.13,
+      "downloaded_from": "https://www.tiktok.com/@marielos_granados/video/7693700292164046093",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7693700292164046093/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7693700292164046093/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7693700292164046093/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7693700292164046093/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7693700292164046093/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.0,
+       "src": "assets/storyboard/7693700292164046093/hold.jpg"
+      },
+      "body": {
+       "t": 14.27,
+       "src": "assets/storyboard/7693700292164046093/body.jpg"
+      },
+      "close": {
+       "t": 25.93,
+       "src": "assets/storyboard/7693700292164046093/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7693700292164046093/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7693700292164046093/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7693700292164046093/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7693700292164046093/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7693700292164046093/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7693700292164046093/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7693700292164046093/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7693700292164046093/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7693700292164046093/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7693700292164046093/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7693700292164046093/strip/011.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Sombrilla multifuncional..#sombría#umbrella #casa#home @UPPER ECHELON PRODUCTS ",
+     "rank": 8
+    },
+    {
+     "creator": "sasashoo",
+     "video_id": "7690360928306777374",
+     "url": "https://www.tiktok.com/@sasashoo/video/7690360928306777374",
+     "product": "Repel 9-Rib Automatic Folding Umbrella (100MPH windproof)",
+     "product_id": "1732530504119718107",
+     "gmv": 49.27,
+     "views": 638,
+     "posted": "09/27/2026",
+     "frames": {
+      "duration": 33.25,
+      "downloaded_from": "https://www.tiktok.com/@sasashoo/video/7690360928306777374",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7690360928306777374/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7690360928306777374/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7690360928306777374/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7690360928306777374/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7690360928306777374/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7690360928306777374/hold.jpg"
+      },
+      "body": {
+       "t": 16.43,
+       "src": "assets/storyboard/7690360928306777374/body.jpg"
+      },
+      "close": {
+       "t": 31.65,
+       "src": "assets/storyboard/7690360928306777374/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7690360928306777374/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7690360928306777374/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7690360928306777374/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7690360928306777374/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7690360928306777374/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7690360928306777374/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7690360928306777374/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7690360928306777374/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7690360928306777374/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7690360928306777374/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7690360928306777374/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7690360928306777374/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7690360928306777374/strip/013.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Lifetime warranty, windproof umbrella ☂️. #tiktokshop #umbrella #repelumbrella #newyork ",
+     "rank": 9
+    },
+    {
+     "creator": "worldsgreatestchad",
+     "video_id": "7694302109830827277",
+     "url": "https://www.tiktok.com/@worldsgreatestchad/video/7694302109830827277",
+     "product": "Repel 9-Rib Automatic Folding Umbrella (100MPH windproof)",
+     "product_id": "1732530504119718107",
+     "gmv": 47.98,
+     "views": 3130,
+     "posted": "10/08/2026",
+     "frames": {
+      "duration": 77.17,
+      "downloaded_from": "https://www.tiktok.com/@worldsgreatestchad/video/7694302109830827277",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7694302109830827277/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.7,
+        "src": "assets/storyboard/7694302109830827277/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7694302109830827277/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.2,
+        "src": "assets/storyboard/7694302109830827277/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7694302109830827277/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7694302109830827277/hold.jpg"
+      },
+      "body": {
+       "t": 38.98,
+       "src": "assets/storyboard/7694302109830827277/body.jpg"
+      },
+      "close": {
+       "t": 74.97,
+       "src": "assets/storyboard/7694302109830827277/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7694302109830827277/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7694302109830827277/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7694302109830827277/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7694302109830827277/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7694302109830827277/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7694302109830827277/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7694302109830827277/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7694302109830827277/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7694302109830827277/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7694302109830827277/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7694302109830827277/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7694302109830827277/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7694302109830827277/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7694302109830827277/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7694302109830827277/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7694302109830827277/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7694302109830827277/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7694302109830827277/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7694302109830827277/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7694302109830827277/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7694302109830827277/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7694302109830827277/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7694302109830827277/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7694302109830827277/strip/024.jpg"
+       },
+       {
+        "t": 60.0,
+        "src": "assets/storyboard/7694302109830827277/strip/025.jpg"
+       },
+       {
+        "t": 62.5,
+        "src": "assets/storyboard/7694302109830827277/strip/026.jpg"
+       },
+       {
+        "t": 65.0,
+        "src": "assets/storyboard/7694302109830827277/strip/027.jpg"
+       },
+       {
+        "t": 67.5,
+        "src": "assets/storyboard/7694302109830827277/strip/028.jpg"
+       },
+       {
+        "t": 70.0,
+        "src": "assets/storyboard/7694302109830827277/strip/029.jpg"
+       },
+       {
+        "t": 72.5,
+        "src": "assets/storyboard/7694302109830827277/strip/030.jpg"
+       },
+       {
+        "t": 75.0,
+        "src": "assets/storyboard/7694302109830827277/strip/031.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "I think I know which Asian umbrella is better #repelumbrella #umbrella #automaticumbrella #tiktokshopfalldealsforyou #stockingstufferideas  ",
+     "rank": 10
+    }
+   ]
+  },
+  {
+   "id": "market",
+   "title": "2 · Top 10 umbrella videos — all brands on TikTok Shop",
+   "basis": "Cruva search_marketplace_products 'umbrella' (US, 2026-09-28 → 2026-10-28) → list_marketplace_product_videos for the 5 top-GMV handheld umbrella SKUs (incl. Repel), merged and ranked by video GMV in window. Patio/stroller/table 'umbrella' SKUs excluded.",
+   "videos": [
+    {
+     "creator": "alfredohae",
+     "video_id": "7693199181250350367",
+     "url": "https://www.tiktok.com/@alfredohae/video/7693199181250350367",
+     "product": "Automatic Folding Umbrella w/ Loop Buckle (1729532560217314285)",
+     "gmv": 62158.5,
+     "views": 2300000,
+     "posted": "2026-10-05",
+     "frames": {
+      "duration": 63.57,
+      "downloaded_from": "https://www.tiktok.com/@alfredohae/video/7693199181250350367",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7693199181250350367/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7693199181250350367/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7693199181250350367/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7693199181250350367/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7693199181250350367/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7693199181250350367/hold.jpg"
+      },
+      "body": {
+       "t": 32.18,
+       "src": "assets/storyboard/7693199181250350367/body.jpg"
+      },
+      "close": {
+       "t": 61.77,
+       "src": "assets/storyboard/7693199181250350367/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7693199181250350367/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7693199181250350367/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7693199181250350367/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7693199181250350367/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7693199181250350367/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7693199181250350367/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7693199181250350367/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7693199181250350367/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7693199181250350367/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7693199181250350367/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7693199181250350367/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7693199181250350367/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7693199181250350367/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7693199181250350367/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7693199181250350367/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7693199181250350367/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7693199181250350367/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7693199181250350367/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7693199181250350367/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7693199181250350367/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7693199181250350367/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7693199181250350367/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7693199181250350367/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7693199181250350367/strip/024.jpg"
+       },
+       {
+        "t": 60.0,
+        "src": "assets/storyboard/7693199181250350367/strip/025.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Esta sombrilla resiste hasta el viento mas fuerte #sombrilla #paraguas #umbrella #rain #sunprotection ",
+     "rank": 1
+    },
+    {
+     "creator": "mrhotpicks",
+     "video_id": "7699227978160459039",
+     "url": "https://www.tiktok.com/@mrhotpicks/video/7699227978160459039",
+     "product": "Automatic Folding Umbrella w/ Loop Buckle (1729532560217314285)",
+     "gmv": 33058.1,
+     "views": 1500000,
+     "posted": "2026-10-21",
+     "frames": {
+      "duration": 76.56,
+      "downloaded_from": "https://www.tiktok.com/@mrhotpicks/video/7699227978160459039",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7699227978160459039/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7699227978160459039/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.0,
+        "src": "assets/storyboard/7699227978160459039/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7699227978160459039/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7699227978160459039/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.2,
+       "src": "assets/storyboard/7699227978160459039/hold.jpg"
+      },
+      "body": {
+       "t": 38.68,
+       "src": "assets/storyboard/7699227978160459039/body.jpg"
+      },
+      "close": {
+       "t": 74.56,
+       "src": "assets/storyboard/7699227978160459039/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7699227978160459039/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7699227978160459039/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7699227978160459039/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7699227978160459039/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7699227978160459039/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7699227978160459039/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7699227978160459039/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7699227978160459039/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7699227978160459039/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7699227978160459039/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7699227978160459039/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7699227978160459039/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7699227978160459039/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7699227978160459039/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7699227978160459039/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7699227978160459039/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7699227978160459039/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7699227978160459039/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7699227978160459039/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7699227978160459039/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7699227978160459039/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7699227978160459039/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7699227978160459039/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7699227978160459039/strip/024.jpg"
+       },
+       {
+        "t": 60.0,
+        "src": "assets/storyboard/7699227978160459039/strip/025.jpg"
+       },
+       {
+        "t": 62.5,
+        "src": "assets/storyboard/7699227978160459039/strip/026.jpg"
+       },
+       {
+        "t": 65.0,
+        "src": "assets/storyboard/7699227978160459039/strip/027.jpg"
+       },
+       {
+        "t": 67.5,
+        "src": "assets/storyboard/7699227978160459039/strip/028.jpg"
+       },
+       {
+        "t": 70.0,
+        "src": "assets/storyboard/7699227978160459039/strip/029.jpg"
+       },
+       {
+        "t": 72.5,
+        "src": "assets/storyboard/7699227978160459039/strip/030.jpg"
+       },
+       {
+        "t": 75.0,
+        "src": "assets/storyboard/7699227978160459039/strip/031.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "This umbrella withstands even the strongest wind #umbrella #automaticumbrella #windproofumbrella #winteressentials #rain",
+     "rank": 2
+    },
+    {
+     "creator": "alfredohae",
+     "video_id": "7698433808638479646",
+     "url": "https://www.tiktok.com/@alfredohae/video/7698433808638479646",
+     "product": "Automatic Folding Umbrella w/ Loop Buckle (1729532560217314285)",
+     "gmv": 15034.7,
+     "views": 232300,
+     "posted": "2026-10-19",
+     "frames": {
+      "duration": 57.87,
+      "downloaded_from": "https://www.tiktok.com/@alfredohae/video/7698433808638479646",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7698433808638479646/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7698433808638479646/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7698433808638479646/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7698433808638479646/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7698433808638479646/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7698433808638479646/hold.jpg"
+      },
+      "body": {
+       "t": 28.93,
+       "src": "assets/storyboard/7698433808638479646/body.jpg"
+      },
+      "close": {
+       "t": 55.67,
+       "src": "assets/storyboard/7698433808638479646/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7698433808638479646/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7698433808638479646/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7698433808638479646/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7698433808638479646/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7698433808638479646/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7698433808638479646/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7698433808638479646/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7698433808638479646/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7698433808638479646/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7698433808638479646/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7698433808638479646/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7698433808638479646/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7698433808638479646/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7698433808638479646/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7698433808638479646/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7698433808638479646/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7698433808638479646/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7698433808638479646/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7698433808638479646/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7698433808638479646/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7698433808638479646/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7698433808638479646/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7698433808638479646/strip/023.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Cual es mejor? #umbrella #sunprotection #rain #paraguas #sale ",
+     "rank": 3
+    },
+    {
+     "creator": "alfredohae",
+     "video_id": "7693570561481493791",
+     "url": "https://www.tiktok.com/@alfredohae/video/7693570561481493791",
+     "product": "Automatic Folding Umbrella w/ Loop Buckle (1729532560217314285)",
+     "gmv": 13467.2,
+     "views": 417700,
+     "posted": "2026-10-06",
+     "frames": {
+      "duration": 55.82,
+      "downloaded_from": "https://www.tiktok.com/@alfredohae/video/7693570561481493791",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7693570561481493791/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7693570561481493791/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7693570561481493791/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7693570561481493791/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.0,
+        "src": "assets/storyboard/7693570561481493791/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7693570561481493791/hold.jpg"
+      },
+      "body": {
+       "t": 27.91,
+       "src": "assets/storyboard/7693570561481493791/body.jpg"
+      },
+      "close": {
+       "t": 54.22,
+       "src": "assets/storyboard/7693570561481493791/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7693570561481493791/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7693570561481493791/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7693570561481493791/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7693570561481493791/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7693570561481493791/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7693570561481493791/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7693570561481493791/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7693570561481493791/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7693570561481493791/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7693570561481493791/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7693570561481493791/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7693570561481493791/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7693570561481493791/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7693570561481493791/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7693570561481493791/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7693570561481493791/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7693570561481493791/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7693570561481493791/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7693570561481493791/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7693570561481493791/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7693570561481493791/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7693570561481493791/strip/022.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Cual es mejor? #sombrilla #paraguas #umbrella #rain #sunprotection ",
+     "rank": 4
+    },
+    {
+     "creator": "tatizambranooficial",
+     "video_id": "7693673284604284173",
+     "url": "https://www.tiktok.com/@tatizambranooficial/video/7693673284604284173",
+     "product": "Automatic Folding Umbrella w/ Loop Buckle (1729532560217314285)",
+     "gmv": 12532.4,
+     "views": 179000,
+     "posted": "2026-10-06",
+     "frames": {
+      "duration": 74.42,
+      "downloaded_from": "https://www.tiktok.com/@tatizambranooficial/video/7693673284604284173",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7693673284604284173/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.7,
+        "src": "assets/storyboard/7693673284604284173/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7693673284604284173/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7693673284604284173/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7693673284604284173/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7693673284604284173/hold.jpg"
+      },
+      "body": {
+       "t": 37.61,
+       "src": "assets/storyboard/7693673284604284173/body.jpg"
+      },
+      "close": {
+       "t": 72.82,
+       "src": "assets/storyboard/7693673284604284173/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7693673284604284173/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7693673284604284173/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7693673284604284173/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7693673284604284173/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7693673284604284173/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7693673284604284173/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7693673284604284173/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7693673284604284173/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7693673284604284173/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7693673284604284173/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7693673284604284173/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7693673284604284173/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7693673284604284173/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7693673284604284173/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7693673284604284173/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7693673284604284173/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7693673284604284173/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7693673284604284173/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7693673284604284173/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7693673284604284173/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7693673284604284173/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7693673284604284173/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7693673284604284173/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7693673284604284173/strip/024.jpg"
+       },
+       {
+        "t": 60.0,
+        "src": "assets/storyboard/7693673284604284173/strip/025.jpg"
+       },
+       {
+        "t": 62.5,
+        "src": "assets/storyboard/7693673284604284173/strip/026.jpg"
+       },
+       {
+        "t": 65.0,
+        "src": "assets/storyboard/7693673284604284173/strip/027.jpg"
+       },
+       {
+        "t": 67.5,
+        "src": "assets/storyboard/7693673284604284173/strip/028.jpg"
+       },
+       {
+        "t": 70.0,
+        "src": "assets/storyboard/7693673284604284173/strip/029.jpg"
+       },
+       {
+        "t": 72.5,
+        "src": "assets/storyboard/7693673284604284173/strip/030.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Paraguas coreano automático ☔ #ParaguasCoreano #ParaguasAutomatico #TikTokShopFinds #RainEssentials #productosvirales ",
+     "rank": 5
+    },
+    {
+     "creator": "splurgealittle",
+     "video_id": "7697005597295774990",
+     "url": "https://www.tiktok.com/@splurgealittle/video/7697005597295774990",
+     "product": "Automatic Folding Umbrella w/ Loop Buckle (1729532560217314285)",
+     "gmv": 11859.8,
+     "views": 751800,
+     "posted": "2026-10-15",
+     "frames": {
+      "duration": 19.3,
+      "downloaded_from": "https://www.tiktok.com/@splurgealittle/video/7697005597295774990",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7697005597295774990/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.7,
+        "src": "assets/storyboard/7697005597295774990/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7697005597295774990/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7697005597295774990/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7697005597295774990/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7697005597295774990/hold.jpg"
+      },
+      "body": {
+       "t": 9.65,
+       "src": "assets/storyboard/7697005597295774990/body.jpg"
+      },
+      "close": {
+       "t": 17.7,
+       "src": "assets/storyboard/7697005597295774990/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7697005597295774990/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7697005597295774990/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7697005597295774990/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7697005597295774990/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7697005597295774990/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7697005597295774990/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7697005597295774990/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7697005597295774990/strip/008.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Never thought I’d see the day where I’m hyping up an umbrella, but it’s too good not too 🌂☂️ #umbrella #automaticumbrella #cuteumbrella #stockingstufferideas #t",
+     "rank": 6
+    },
+    {
+     "creator": "fuuuu5476_min",
+     "video_id": "7693008131172863246",
+     "url": "https://www.tiktok.com/@fuuuu5476_min/video/7693008131172863246",
+     "product": "Automatic Folding Umbrella w/ Loop Buckle (1729532560217314285)",
+     "gmv": 10928.8,
+     "views": 670100,
+     "posted": "2026-10-05",
+     "frames": {
+      "duration": 50.3,
+      "downloaded_from": "https://www.tiktok.com/@fuuuu5476_min/video/7693008131172863246",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7693008131172863246/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.7,
+        "src": "assets/storyboard/7693008131172863246/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7693008131172863246/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7693008131172863246/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7693008131172863246/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7693008131172863246/hold.jpg"
+      },
+      "body": {
+       "t": 25.15,
+       "src": "assets/storyboard/7693008131172863246/body.jpg"
+      },
+      "close": {
+       "t": 48.7,
+       "src": "assets/storyboard/7693008131172863246/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7693008131172863246/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7693008131172863246/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7693008131172863246/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7693008131172863246/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7693008131172863246/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7693008131172863246/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7693008131172863246/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7693008131172863246/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7693008131172863246/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7693008131172863246/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7693008131172863246/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7693008131172863246/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7693008131172863246/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7693008131172863246/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7693008131172863246/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7693008131172863246/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7693008131172863246/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7693008131172863246/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7693008131172863246/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7693008131172863246/strip/020.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Automatic Folding Umbrella, 1 Count/ 60pcs Portable Rain Umbrella with Loop Buckle, Windproof & Waterproof Umbrella for Men & Women#TikTokShopCreatorPicks #auto",
+     "rank": 7
+    },
+    {
+     "creator": "buboop_",
+     "video_id": "7691414763020012830",
+     "url": "https://www.tiktok.com/@buboop_/video/7691414763020012830",
+     "product": "Automatic Folding Umbrella w/ Loop Buckle (1729532560217314285)",
+     "gmv": 6898.9,
+     "views": 279100,
+     "posted": "2026-09-30",
+     "frames": {
+      "duration": 23.93,
+      "downloaded_from": "https://www.tiktok.com/@buboop_/video/7691414763020012830",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7691414763020012830/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7691414763020012830/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7691414763020012830/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7691414763020012830/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7691414763020012830/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7691414763020012830/hold.jpg"
+      },
+      "body": {
+       "t": 12.37,
+       "src": "assets/storyboard/7691414763020012830/body.jpg"
+      },
+      "close": {
+       "t": 21.73,
+       "src": "assets/storyboard/7691414763020012830/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7691414763020012830/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7691414763020012830/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7691414763020012830/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7691414763020012830/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7691414763020012830/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7691414763020012830/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7691414763020012830/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7691414763020012830/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7691414763020012830/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7691414763020012830/strip/010.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "#umbrella #rain #rainy #ootd #outfit ",
+     "rank": 8
+    },
+    {
+     "creator": "lootwithhoot",
+     "video_id": "7691545492727008543",
+     "url": "https://www.tiktok.com/@lootwithhoot/video/7691545492727008543",
+     "product": "Automatic Folding Umbrella w/ Loop Buckle (1729532560217314285)",
+     "gmv": 6530.3,
+     "views": 671200,
+     "posted": "2026-10-01",
+     "frames": {
+      "duration": 50.17,
+      "downloaded_from": "https://www.tiktok.com/@lootwithhoot/video/7691545492727008543",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7691545492727008543/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7691545492727008543/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7691545492727008543/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7691545492727008543/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7691545492727008543/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7691545492727008543/hold.jpg"
+      },
+      "body": {
+       "t": 24.88,
+       "src": "assets/storyboard/7691545492727008543/body.jpg"
+      },
+      "close": {
+       "t": 48.57,
+       "src": "assets/storyboard/7691545492727008543/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7691545492727008543/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7691545492727008543/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7691545492727008543/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7691545492727008543/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7691545492727008543/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7691545492727008543/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7691545492727008543/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7691545492727008543/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7691545492727008543/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7691545492727008543/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7691545492727008543/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7691545492727008543/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7691545492727008543/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7691545492727008543/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7691545492727008543/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7691545492727008543/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7691545492727008543/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7691545492727008543/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7691545492727008543/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7691545492727008543/strip/020.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Holy",
+     "rank": 9
+    },
+    {
+     "creator": "tawnyinflorida",
+     "video_id": "7693998911769349407",
+     "url": "https://www.tiktok.com/@tawnyinflorida/video/7693998911769349407",
+     "product": "Foldable Rainproof Automatic Umbrella, Ring Buckle (1729464948468847112)",
+     "gmv": 6479.0,
+     "views": 234400,
+     "posted": "2026-10-07",
+     "frames": {
+      "duration": 47.21,
+      "downloaded_from": "https://www.tiktok.com/@tawnyinflorida/video/7693998911769349407",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7693998911769349407/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7693998911769349407/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7693998911769349407/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7693998911769349407/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7693998911769349407/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7693998911769349407/hold.jpg"
+      },
+      "body": {
+       "t": 24.0,
+       "src": "assets/storyboard/7693998911769349407/body.jpg"
+      },
+      "close": {
+       "t": 45.01,
+       "src": "assets/storyboard/7693998911769349407/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7693998911769349407/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7693998911769349407/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7693998911769349407/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7693998911769349407/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7693998911769349407/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7693998911769349407/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7693998911769349407/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7693998911769349407/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7693998911769349407/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7693998911769349407/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7693998911769349407/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7693998911769349407/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7693998911769349407/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7693998911769349407/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7693998911769349407/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7693998911769349407/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7693998911769349407/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7693998911769349407/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7693998911769349407/strip/019.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Which umbrella is better? The upgraded umbrella will keep you dry from the rain in style #umbrella ",
+     "rank": 10
+    }
+   ]
+  },
+  {
+   "id": "viral",
+   "title": "3a · Top 5 viral videos — all TikTok Shop (ranked by GMV)",
+   "basis": "Ranked by video GMV (Cruva views-sort for products returned broken data). Pool = top videos of the top-8 GMV products on TikTok Shop US 2026-09-28 → 2026-10-28, excluding blankets/comforters and trading cards. Not a full-platform video scan.",
+   "videos": [
+    {
+     "creator": "kaylahlorraine",
+     "video_id": "7692588314519473439",
+     "url": "https://www.tiktok.com/@kaylahlorraine/video/7692588314519473439",
+     "product": "medicube Smooth & Clear Body Care Set",
+     "gmv": 240560.9,
+     "views": 3300000,
+     "posted": "2026-10-03",
+     "frames": {
+      "duration": 83.7,
+      "downloaded_from": "https://www.tiktok.com/@kaylahlorraine/video/7692588314519473439",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7692588314519473439/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7692588314519473439/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7692588314519473439/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7692588314519473439/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.0,
+        "src": "assets/storyboard/7692588314519473439/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7692588314519473439/hold.jpg"
+      },
+      "body": {
+       "t": 41.65,
+       "src": "assets/storyboard/7692588314519473439/body.jpg"
+      },
+      "close": {
+       "t": 81.9,
+       "src": "assets/storyboard/7692588314519473439/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7692588314519473439/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7692588314519473439/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7692588314519473439/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7692588314519473439/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7692588314519473439/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7692588314519473439/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7692588314519473439/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7692588314519473439/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7692588314519473439/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7692588314519473439/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7692588314519473439/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7692588314519473439/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7692588314519473439/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7692588314519473439/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7692588314519473439/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7692588314519473439/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7692588314519473439/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7692588314519473439/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7692588314519473439/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7692588314519473439/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7692588314519473439/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7692588314519473439/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7692588314519473439/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7692588314519473439/strip/024.jpg"
+       },
+       {
+        "t": 60.0,
+        "src": "assets/storyboard/7692588314519473439/strip/025.jpg"
+       },
+       {
+        "t": 62.5,
+        "src": "assets/storyboard/7692588314519473439/strip/026.jpg"
+       },
+       {
+        "t": 65.0,
+        "src": "assets/storyboard/7692588314519473439/strip/027.jpg"
+       },
+       {
+        "t": 67.5,
+        "src": "assets/storyboard/7692588314519473439/strip/028.jpg"
+       },
+       {
+        "t": 70.0,
+        "src": "assets/storyboard/7692588314519473439/strip/029.jpg"
+       },
+       {
+        "t": 72.5,
+        "src": "assets/storyboard/7692588314519473439/strip/030.jpg"
+       },
+       {
+        "t": 75.0,
+        "src": "assets/storyboard/7692588314519473439/strip/031.jpg"
+       },
+       {
+        "t": 77.5,
+        "src": "assets/storyboard/7692588314519473439/strip/032.jpg"
+       },
+       {
+        "t": 80.0,
+        "src": "assets/storyboard/7692588314519473439/strip/033.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Replying to @Sarah I can’t believe yall are MAD at me for helping other woman feel confident… #hyperpigmentation #medicubeskincare @medicube global ",
+     "rank": 1
+    },
+    {
+     "creator": "whatctlikes",
+     "video_id": "7691100520076922142",
+     "url": "https://www.tiktok.com/@whatctlikes/video/7691100520076922142",
+     "product": "medicube Smooth & Clear Body Care Set",
+     "gmv": 110110.7,
+     "views": 6200000,
+     "posted": "2026-09-29",
+     "frames": {
+      "duration": 92.97,
+      "downloaded_from": "https://www.tiktok.com/@whatctlikes/video/7691100520076922142",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7691100520076922142/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7691100520076922142/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7691100520076922142/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7691100520076922142/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7691100520076922142/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7691100520076922142/hold.jpg"
+      },
+      "body": {
+       "t": 46.88,
+       "src": "assets/storyboard/7691100520076922142/body.jpg"
+      },
+      "close": {
+       "t": 91.37,
+       "src": "assets/storyboard/7691100520076922142/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7691100520076922142/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7691100520076922142/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7691100520076922142/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7691100520076922142/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7691100520076922142/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7691100520076922142/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7691100520076922142/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7691100520076922142/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7691100520076922142/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7691100520076922142/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7691100520076922142/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7691100520076922142/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7691100520076922142/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7691100520076922142/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7691100520076922142/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7691100520076922142/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7691100520076922142/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7691100520076922142/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7691100520076922142/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7691100520076922142/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7691100520076922142/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7691100520076922142/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7691100520076922142/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7691100520076922142/strip/024.jpg"
+       },
+       {
+        "t": 60.0,
+        "src": "assets/storyboard/7691100520076922142/strip/025.jpg"
+       },
+       {
+        "t": 62.5,
+        "src": "assets/storyboard/7691100520076922142/strip/026.jpg"
+       },
+       {
+        "t": 65.0,
+        "src": "assets/storyboard/7691100520076922142/strip/027.jpg"
+       },
+       {
+        "t": 67.5,
+        "src": "assets/storyboard/7691100520076922142/strip/028.jpg"
+       },
+       {
+        "t": 70.0,
+        "src": "assets/storyboard/7691100520076922142/strip/029.jpg"
+       },
+       {
+        "t": 72.5,
+        "src": "assets/storyboard/7691100520076922142/strip/030.jpg"
+       },
+       {
+        "t": 75.0,
+        "src": "assets/storyboard/7691100520076922142/strip/031.jpg"
+       },
+       {
+        "t": 77.5,
+        "src": "assets/storyboard/7691100520076922142/strip/032.jpg"
+       },
+       {
+        "t": 80.0,
+        "src": "assets/storyboard/7691100520076922142/strip/033.jpg"
+       },
+       {
+        "t": 82.5,
+        "src": "assets/storyboard/7691100520076922142/strip/034.jpg"
+       },
+       {
+        "t": 85.0,
+        "src": "assets/storyboard/7691100520076922142/strip/035.jpg"
+       },
+       {
+        "t": 87.5,
+        "src": "assets/storyboard/7691100520076922142/strip/036.jpg"
+       },
+       {
+        "t": 90.0,
+        "src": "assets/storyboard/7691100520076922142/strip/037.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "body acne and darkness whereee #bodyacne #hyperpigmentation ",
+     "rank": 2
+    },
+    {
+     "creator": "shesaboutherbusiness",
+     "video_id": "7696333910917025037",
+     "url": "https://www.tiktok.com/@shesaboutherbusiness/video/7696333910917025037",
+     "product": "KakaPeople Easy-Off Faja Bodysuit",
+     "gmv": 101577.8,
+     "views": 7500000,
+     "posted": "2026-10-14",
+     "frames": {
+      "duration": 38.0,
+      "downloaded_from": "https://www.tiktok.com/@shesaboutherbusiness/video/7696333910917025037",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7696333910917025037/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7696333910917025037/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.0,
+        "src": "assets/storyboard/7696333910917025037/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7696333910917025037/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7696333910917025037/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.0,
+       "src": "assets/storyboard/7696333910917025037/hold.jpg"
+      },
+      "body": {
+       "t": 18.8,
+       "src": "assets/storyboard/7696333910917025037/body.jpg"
+      },
+      "close": {
+       "t": 35.8,
+       "src": "assets/storyboard/7696333910917025037/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7696333910917025037/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7696333910917025037/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7696333910917025037/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7696333910917025037/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7696333910917025037/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7696333910917025037/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7696333910917025037/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7696333910917025037/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7696333910917025037/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7696333910917025037/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7696333910917025037/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7696333910917025037/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7696333910917025037/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7696333910917025037/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7696333910917025037/strip/015.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "I’m wearing a medium. I’m 5 foot five and 167 pounds. #faja #shapewear #colombianfaja #tiktokshopfalldealsforyou #tiktokshopcreatorpicks ",
+     "rank": 3
+    },
+    {
+     "creator": "shoppingwithameliarose",
+     "video_id": "7696953876515163406",
+     "url": "https://www.tiktok.com/@shoppingwithameliarose/video/7696953876515163406",
+     "product": "medicube Smooth & Clear Body Care Set",
+     "gmv": 81198.4,
+     "views": 6100000,
+     "posted": "2026-10-15",
+     "frames": {
+      "duration": 59.33,
+      "downloaded_from": "https://www.tiktok.com/@shoppingwithameliarose/video/7696953876515163406",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.2,
+        "src": "assets/storyboard/7696953876515163406/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7696953876515163406/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7696953876515163406/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7696953876515163406/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7696953876515163406/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.0,
+       "src": "assets/storyboard/7696953876515163406/hold.jpg"
+      },
+      "body": {
+       "t": 30.07,
+       "src": "assets/storyboard/7696953876515163406/body.jpg"
+      },
+      "close": {
+       "t": 57.13,
+       "src": "assets/storyboard/7696953876515163406/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7696953876515163406/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7696953876515163406/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7696953876515163406/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7696953876515163406/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7696953876515163406/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7696953876515163406/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7696953876515163406/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7696953876515163406/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7696953876515163406/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7696953876515163406/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7696953876515163406/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7696953876515163406/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7696953876515163406/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7696953876515163406/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7696953876515163406/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7696953876515163406/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7696953876515163406/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7696953876515163406/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7696953876515163406/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7696953876515163406/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7696953876515163406/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7696953876515163406/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7696953876515163406/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7696953876515163406/strip/024.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": null,
+     "rank": 4
+    },
+    {
+     "creator": "jasminebrownie1",
+     "video_id": "7699223554927201549",
+     "url": "https://www.tiktok.com/@jasminebrownie1/video/7699223554927201549",
+     "product": "KakaPeople Easy-Off Faja Bodysuit",
+     "gmv": 74489.5,
+     "views": 5200000,
+     "posted": "2026-10-21",
+     "frames": {
+      "duration": 46.17,
+      "downloaded_from": "https://www.tiktok.com/@jasminebrownie1/video/7699223554927201549",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7699223554927201549/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7699223554927201549/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7699223554927201549/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7699223554927201549/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7699223554927201549/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7699223554927201549/hold.jpg"
+      },
+      "body": {
+       "t": 23.48,
+       "src": "assets/storyboard/7699223554927201549/body.jpg"
+      },
+      "close": {
+       "t": 44.57,
+       "src": "assets/storyboard/7699223554927201549/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7699223554927201549/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7699223554927201549/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7699223554927201549/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7699223554927201549/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7699223554927201549/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7699223554927201549/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7699223554927201549/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7699223554927201549/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7699223554927201549/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7699223554927201549/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7699223554927201549/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7699223554927201549/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7699223554927201549/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7699223554927201549/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7699223554927201549/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7699223554927201549/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7699223554927201549/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7699223554927201549/strip/018.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "🤯 #shapewear #bodysuit #faja ",
+     "rank": 5
+    }
+   ]
+  },
+  {
+   "id": "cushion",
+   "title": "3b · Top 3 seat cushion videos",
+   "basis": "Cruva search_marketplace_products 'seat cushion' (2026-09-28 → 2026-10-28) → videos of Cushion Lab, Honeycomb Gel and TIDEWE heated cushions (barstool excluded), ranked by video GMV. All top 3 are TIDEWE.",
+   "videos": [
+    {
+     "creator": "countrygirl_prepper",
+     "video_id": "7696959297468615966",
+     "url": "https://www.tiktok.com/@countrygirl_prepper/video/7696959297468615966",
+     "product": "TIDEWE Hunting Heated Seat Cushion (1730155024170979979)",
+     "gmv": 11447.5,
+     "views": 885600,
+     "posted": "2026-10-15",
+     "frames": {
+      "duration": 15.0,
+      "downloaded_from": "https://www.tiktok.com/@countrygirl_prepper/video/7696959297468615966",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7696959297468615966/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7696959297468615966/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7696959297468615966/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7696959297468615966/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7696959297468615966/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.3,
+       "src": "assets/storyboard/7696959297468615966/hold.jpg"
+      },
+      "body": {
+       "t": 7.9,
+       "src": "assets/storyboard/7696959297468615966/body.jpg"
+      },
+      "close": {
+       "t": 13.0,
+       "src": "assets/storyboard/7696959297468615966/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7696959297468615966/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7696959297468615966/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7696959297468615966/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7696959297468615966/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7696959297468615966/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7696959297468615966/strip/006.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "TIDEWE heated cushion for hunting in tree stands! #huntinggear #treestand #deerseason #huntingseason #deerhunting @tideweofficial ",
+     "rank": 1
+    },
+    {
+     "creator": "k9_unit_369",
+     "video_id": "7698733947035110686",
+     "url": "https://www.tiktok.com/@k9_unit_369/video/7698733947035110686",
+     "product": "TIDEWE Hunting Heated Seat Cushion (1730155024170979979)",
+     "gmv": 3119.8,
+     "views": 285600,
+     "posted": "2026-10-20",
+     "frames": {
+      "duration": 23.66,
+      "downloaded_from": "https://www.tiktok.com/@k9_unit_369/video/7698733947035110686",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7698733947035110686/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7698733947035110686/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7698733947035110686/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7698733947035110686/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.0,
+        "src": "assets/storyboard/7698733947035110686/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7698733947035110686/hold.jpg"
+      },
+      "body": {
+       "t": 12.23,
+       "src": "assets/storyboard/7698733947035110686/body.jpg"
+      },
+      "close": {
+       "t": 21.86,
+       "src": "assets/storyboard/7698733947035110686/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7698733947035110686/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7698733947035110686/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7698733947035110686/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7698733947035110686/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7698733947035110686/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7698733947035110686/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7698733947035110686/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7698733947035110686/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7698733947035110686/strip/009.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Cold hunting blinds and chilly outdoor events just got more comfortable with this TIDEWE heated cushion that warms your seat and back. #tiktokshopcreatorpicks #",
+     "rank": 2
+    },
+    {
+     "creator": "countrygirl_prepper",
+     "video_id": "7697804658072489246",
+     "url": "https://www.tiktok.com/@countrygirl_prepper/video/7697804658072489246",
+     "product": "TIDEWE Hunting Heated Seat Cushion (1730155024170979979)",
+     "gmv": 1734.7,
+     "views": 148600,
+     "posted": "2026-10-18",
+     "frames": {
+      "duration": 15.75,
+      "downloaded_from": "https://www.tiktok.com/@countrygirl_prepper/video/7697804658072489246",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7697804658072489246/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7697804658072489246/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7697804658072489246/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7697804658072489246/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7697804658072489246/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.52,
+       "src": "assets/storyboard/7697804658072489246/hold.jpg"
+      },
+      "body": {
+       "t": 7.87,
+       "src": "assets/storyboard/7697804658072489246/body.jpg"
+      },
+      "close": {
+       "t": 13.95,
+       "src": "assets/storyboard/7697804658072489246/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7697804658072489246/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7697804658072489246/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7697804658072489246/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7697804658072489246/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7697804658072489246/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7697804658072489246/strip/006.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Finally can hunt all day without freezing with my heated tree stand cushion @tideweofficial  #treestand #huntinggear #hunters #huntingtiktok #deerhunting ",
+     "rank": 3
+    }
+   ]
+  }
+ ]
+}
