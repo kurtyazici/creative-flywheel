@@ -18,7 +18,7 @@ const card = v => { const F = v.frames, X = v.tx && v.tx.speech ? v.tx : null;
   const rest = F ? beat('HOLD', F.hold, v, X && X.hold, 'hd') + beat('BODY', F.body, v, X && X.body, 'bd', 'summary') + beat('CLOSE', F.close, v, X && X.close, 'cl', 'summary') : '';
   const script = X ? [X.hook.join(' '), X.hold].join(' ').replace(/\s+/g, ' ').trim() : '';
   const nospeech = v.tx && !v.tx.speech ? '<p class="meta warn">No speech detected (music / text-only video).</p>' : '';
-  return `<article class="card sb"><div class="sb-h"><div><b>#${v.rank}</b> <a href="${esc(v.url)}" target="_blank" rel="noopener">@${esc(v.creator)}</a> <span class="meta">${dash(v.product)}</span></div>
+  return `<article class="card sb"><div class="sb-h"><div><b>#${v.rank}</b> <a href="${esc(v.url)}" target="_blank" rel="noopener">@${esc(v.creator)}</a> ${v.product_id && v.product ? `<a class="meta pdp" href="https://www.tiktok.com/shop/pdp/${esc(v.product_id)}" target="_blank" rel="noopener" title="Open TikTok Shop listing">${esc(v.product)} ↗</a>` : `<span class="meta">${dash(v.product)}</span>`}</div>
     <div class="sb-m"><span>GMV <b>${money(v.gmv)}</b></span><span>Views <b>${big(v.views)}</b></span><span class="meta">posted ${dash(v.posted)}${F ? ' · ' + F.duration + 's' : ''}</span>
     <a class="watch" href="${esc(v.url)}" target="_blank" rel="noopener">Watch on TikTok ↗</a></div></div>
     ${v.note ? `<p class="meta">${esc(v.note)}</p>` : ''}
