@@ -55,3 +55,15 @@ details.tx p{margin:2px 0;font-size:14px}
 @media(max-width:700px){details.tx summary{min-height:44px;display:flex;align-items:center}.bp{min-width:20px;height:20px;font-size:11px}html,body{overflow-x:hidden;max-width:100%}.card.sb,.full{min-width:0;max-width:100%}.sb-h a,.sb-h div{overflow-wrap:anywhere}}
 
 .pdp{color:inherit;text-decoration:underline dotted;text-underline-offset:2px}.pdp:hover{text-decoration-style:solid}
+
+/* range label, rank + FastMoss check, list tab */
+.range{font-weight:600;margin:2px 0 6px}
+.pline{margin:2px 0;font-size:13px}
+.fmc{opacity:.8}
+.tabs{display:inline-flex;gap:4px;margin-right:10px}
+.tab{border:1px solid #ccc;background:transparent;border-radius:6px;padding:3px 10px;cursor:pointer;font:inherit}
+.tab.on{background:#222;color:#fff;border-color:#222}
+.lt-wrap{overflow-x:auto}
+.lt{border-collapse:collapse;width:100%;font-size:14px}
+.lt th,.lt td{border-bottom:1px solid #e5e5e5;padding:6px 8px;text-align:left;vertical-align:top}
+.lt td:nth-child(5),.lt td:nth-child(6){white-space:nowrap}
