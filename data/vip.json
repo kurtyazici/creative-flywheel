@@ -1,0 +1,3593 @@
+{
+ "meta": {
+  "generated": "2026-10-29T11:55-05:00",
+  "window": "2026-09-29 → 2026-10-28",
+  "source": "Kalodata"
+ },
+ "sections": [
+  {
+   "id": "market",
+   "title": "Top 20 blanket videos — all brands (Kalodata)",
+   "basis": "Kalodata US, Last 30 Days (09/29/2026 ~ 10/28/2026). Product search \"blanket\" sorted by revenue -> top 23 blanket/throw products (excluded gift boxes, jackets, wearables/hoodies/ponchos, comforter sets, bundles/combos, vacuum bags, light-therapy mats, sleep masks) -> /product/detail/video/queryList per product (top 20 by revenue), deduped by video, sorted by revenue attributed to that product in window. GMV = revenue attributed to the product in window; Views = Kalodata video views (may be lifetime, not window-only).",
+   "videos": [
+    {
+     "creator": "maryalyssacarr",
+     "video_id": "7697285819727547661",
+     "url": "https://www.tiktok.com/@maryalyssacarr/video/7697285819727547661",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 127980.0,
+     "views": 5100000.0,
+     "items_sold": "1.42k",
+     "posted": "2026-10-16",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 40.75,
+      "downloaded_from": "https://www.tiktok.com/@maryalyssacarr/video/7697285819727547661",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7697285819727547661/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7697285819727547661/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7697285819727547661/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7697285819727547661/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7697285819727547661/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7697285819727547661/hold.jpg"
+      },
+      "body": {
+       "t": 20.18,
+       "src": "assets/storyboard/7697285819727547661/body.jpg"
+      },
+      "close": {
+       "t": 39.15,
+       "src": "assets/storyboard/7697285819727547661/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7697285819727547661/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7697285819727547661/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7697285819727547661/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7697285819727547661/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7697285819727547661/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7697285819727547661/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7697285819727547661/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7697285819727547661/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7697285819727547661/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7697285819727547661/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7697285819727547661/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7697285819727547661/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7697285819727547661/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7697285819727547661/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7697285819727547661/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7697285819727547661/strip/016.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "how many did you count??  @Comfrt ",
+     "rank": 1,
+     "tx_wps": 2.63,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.9
+       ],
+       "body": [
+        7.9,
+        35.75
+       ],
+       "close": [
+        35.75,
+        40.75
+       ]
+      },
+      "hook": [
+       "1",
+       "2 3 4",
+       "5",
+       "6 7 8",
+       ""
+      ],
+      "hold": "8 9 10 11 12 13 14 15",
+      "body": "16 17 18 19, 20, 21 22, 23, 24, 25, 26, 27, 28 blankets, 28 dreamer…",
+      "close": "stock up because this is the gift that everybody wants that they're not willing to tell…",
+      "strip": [
+       "1 2 3 4 5 6",
+       "7 8 9 10 11",
+       "12 13 14 15",
+       "16 17 18",
+       "19, 20, 21",
+       "22, 23, 24,",
+       "25, 26,",
+       "27, 28 blankets,",
+       "28 dreamer blankets, and I still have one as",
+       "my comforter on my bed, so 29, I have two in",
+       "boxes that I haven't opened yet. 31",
+       "dreamer blankets. When I tell you these are the",
+       "best thing you can own, I wasn't",
+       "exaggerating. I can't help myself. When they go on",
+       "sale, I stock up because this is the gift that everybody",
+       "wants that they're not willing to tell you what they want, okay? I'm just saying."
+      ],
+      "summary": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19, 20, 21 22, 23, 24, 25, 26, 27, 28 blankets, 28 dreamer blankets, and I still have one as my comforter…",
+      "full": [
+       [
+        0.0,
+        "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18"
+       ],
+       [
+        9.86,
+        "19, 20, 21"
+       ],
+       [
+        12.66,
+        "22, 23, 24, 25, 26, 27, 28 blankets, 28 dreamer blankets, and I still have one as my comforter"
+       ],
+       [
+        23.08,
+        "on my bed, so 29, I have two in boxes that I haven't opened yet. 31 dreamer blankets."
+       ],
+       [
+        28.42,
+        "When I tell you these are the best thing you can own, I wasn't exaggerating. I can't help"
+       ],
+       [
+        33.58,
+        "myself. When they go on sale, I stock up because this is the gift that everybody wants"
+       ],
+       [
+        37.64,
+        "that they're not willing to tell you what they want, okay?"
+       ],
+       [
+        40.1,
+        "I'm just saying."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "tnelly1993",
+     "video_id": "7679488554786884878",
+     "url": "https://www.tiktok.com/@tnelly1993/video/7679488554786884878",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 80360.0,
+     "views": 2960000.0,
+     "items_sold": "874",
+     "posted": "2026-08-29",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 77.23,
+      "downloaded_from": "https://www.tiktok.com/@tnelly1993/video/7679488554786884878",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7679488554786884878/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7679488554786884878/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7679488554786884878/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7679488554786884878/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7679488554786884878/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.0,
+       "src": "assets/storyboard/7679488554786884878/hold.jpg"
+      },
+      "body": {
+       "t": 39.01,
+       "src": "assets/storyboard/7679488554786884878/body.jpg"
+      },
+      "close": {
+       "t": 75.23,
+       "src": "assets/storyboard/7679488554786884878/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7679488554786884878/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7679488554786884878/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7679488554786884878/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7679488554786884878/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7679488554786884878/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7679488554786884878/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7679488554786884878/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7679488554786884878/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7679488554786884878/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7679488554786884878/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7679488554786884878/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7679488554786884878/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7679488554786884878/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7679488554786884878/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7679488554786884878/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7679488554786884878/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7679488554786884878/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7679488554786884878/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7679488554786884878/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7679488554786884878/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7679488554786884878/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7679488554786884878/strip/022.jpg"
+       },
+       {
+        "t": 55.0,
+        "src": "assets/storyboard/7679488554786884878/strip/023.jpg"
+       },
+       {
+        "t": 57.5,
+        "src": "assets/storyboard/7679488554786884878/strip/024.jpg"
+       },
+       {
+        "t": 60.0,
+        "src": "assets/storyboard/7679488554786884878/strip/025.jpg"
+       },
+       {
+        "t": 62.5,
+        "src": "assets/storyboard/7679488554786884878/strip/026.jpg"
+       },
+       {
+        "t": 65.0,
+        "src": "assets/storyboard/7679488554786884878/strip/027.jpg"
+       },
+       {
+        "t": 67.5,
+        "src": "assets/storyboard/7679488554786884878/strip/028.jpg"
+       },
+       {
+        "t": 70.0,
+        "src": "assets/storyboard/7679488554786884878/strip/029.jpg"
+       },
+       {
+        "t": 72.5,
+        "src": "assets/storyboard/7679488554786884878/strip/030.jpg"
+       },
+       {
+        "t": 75.0,
+        "src": "assets/storyboard/7679488554786884878/strip/031.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "The softest blanket ever!!! #comfrt #dreamerblanket @Comfrt #giftguide ",
+     "rank": 2,
+     "tx_wps": 2.64,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.5
+       ],
+       "body": [
+        7.5,
+        72.23
+       ],
+       "close": [
+        72.23,
+        77.23
+       ]
+      },
+      "hook": [
+       "So I",
+       "know that expensive",
+       "blanket brand",
+       "is having a very",
+       ""
+      ],
+      "hold": "very big sell right now, but Comfort is having their sell as well. And you can basically",
+      "body": "get two or even three of these blankets for their on -sell price.…",
+      "close": "you, and your size, and color that you want is in stock, I would honestly fricking…",
+      "strip": [
+       "So I know that expensive blanket brand is having",
+       "a very big sell right now, but Comfort",
+       "is having their sell as well. And you can basically",
+       "get two or even three",
+       "of these blankets for their on -sell",
+       "price. Depending which coupon you have,",
+       "you can stack the coupon on top of the",
+       "sales price to make this even cheaper. And this",
+       "blanket y 'all is literally the softest",
+       "blanket I've ever felt. I have gifted this blanket so,",
+       "so many times I. I have everyone",
+       "",
+       "in",
+       "",
+       "",
+       "",
+       "sleep with mine. And so does my husband and my, and",
+       "",
+       "",
+       "my",
+       "",
+       "kids sleep with theirs too.. There's a pretty dang good coupon",
+       "that I have right now. And you stack that on",
+       "top of the sales price. Like I can see on the",
+       "back end what people are paying for these and it's",
+       "actually insane. And right now is the best time to buy them, while",
+       "still fricking hot out. Because when winter comes,",
+       "these suckers are going to be flying, and you're not",
+       "gonna get your size and the color that you want. So if I were you,",
+       "and your size, and color that you want is",
+       "in stock, I would honestly fricking run."
+      ],
+      "summary": "So I know that expensive blanket brand is having a very big sell right now, but Comfort is having their sell as well.…",
+      "full": [
+       [
+        0.0,
+        "So I know that expensive blanket brand"
+       ],
+       [
+        2.04,
+        "is having a very big sell right now,"
+       ],
+       [
+        4.28,
+        "but Comfort is having their sell as well."
+       ],
+       [
+        6.44,
+        "And you can basically get two or even three"
+       ],
+       [
+        10.04,
+        "of these blankets for their on-sell price. Depending which coupon you have, you can stack"
+       ],
+       [
+        16.14,
+        "the coupon on top of the sales price to make this even cheaper. And this blanket y'all is literally"
+       ],
+       [
+        21.32,
+        "the softest blanket I've ever felt. I have gifted this blanket so, so many times"
+       ],
+       [
+        25.34,
+        "I. I have everyone in"
+       ],
+       [
+        40.04,
+        "sleep with mine."
+       ],
+       [
+        40.6,
+        "And so does my husband"
+       ],
+       [
+        41.56,
+        "and my, and my kids sleep with theirs too."
+       ],
+       [
+        43.04,
+        "."
+       ],
+       [
+        53.56,
+        "There's a pretty dang good coupon that I have right now."
+       ],
+       [
+        56.14,
+        "And you stack that on top of the sales price."
+       ],
+       [
+        59.06,
+        "Like I can see on the back end"
+       ],
+       [
+        60.18,
+        "what people are paying for these and it's actually insane."
+       ],
+       [
+        63.04,
+        "And right now is the best time to buy them,"
+       ],
+       [
+        64.66,
+        "while still fricking hot out."
+       ],
+       [
+        66.08,
+        "Because when winter comes,"
+       ],
+       [
+        67.7,
+        "these suckers are going to be flying,"
+       ],
+       [
+        69.44,
+        "and you're not gonna get your size"
+       ],
+       [
+        70.68,
+        "and the color that you want."
+       ],
+       [
+        71.66,
+        "So if I were you, and your size,"
+       ],
+       [
+        73.9,
+        "and color that you want is in stock,"
+       ],
+       [
+        75.78,
+        "I would honestly fricking run."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "vi0letredfinds",
+     "video_id": "7691119830375632142",
+     "url": "https://www.tiktok.com/@vi0letredfinds/video/7691119830375632142",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 79150.0,
+     "views": 2880000.0,
+     "items_sold": "846",
+     "posted": "2026-09-29",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 27.91,
+      "downloaded_from": "https://www.tiktok.com/@vi0letredfinds/video/7691119830375632142",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7691119830375632142/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7691119830375632142/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7691119830375632142/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7691119830375632142/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7691119830375632142/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7691119830375632142/hold.jpg"
+      },
+      "body": {
+       "t": 14.15,
+       "src": "assets/storyboard/7691119830375632142/body.jpg"
+      },
+      "close": {
+       "t": 26.31,
+       "src": "assets/storyboard/7691119830375632142/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7691119830375632142/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7691119830375632142/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7691119830375632142/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7691119830375632142/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7691119830375632142/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7691119830375632142/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7691119830375632142/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7691119830375632142/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7691119830375632142/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7691119830375632142/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7691119830375632142/strip/011.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "This has to be my fav color yet absolutely stunning 💜🐅☁️✨ #comfrt #dreamerblanket #comfrtdreamerblanket #TikTokShopFallDealsForYou #cozyblanket @Comfrt ",
+     "rank": 3,
+     "tx_wps": 2.94,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.9
+       ],
+       "body": [
+        7.9,
+        22.91
+       ],
+       "close": [
+        22.91,
+        27.91
+       ]
+      },
+      "hook": [
+       "i",
+       "got my hands on the",
+       "brand new",
+       "tiger",
+       "amethyst"
+      ],
+      "hold": "comfort blanket the rich amethyst perp light pink and",
+      "body": "deep plum tiger stripes is to die for this is the biggest size you can get,…",
+      "close": "you will ever feel in your life",
+      "strip": [
+       "i got my hands on the brand new tiger",
+       "amethyst comfort blanket the",
+       "rich amethyst perp light",
+       "pink and deep plum tiger stripes is",
+       "to die for this is the biggest size you can",
+       "get, they call it the mega dreamer size and it's freaking",
+       "huge look at how flowy it is this is so",
+       "this is so big i could literally wrap myself up like",
+       "three times in it comfort is the softest",
+       "blanket you will ever feel in your life",
+       ""
+      ],
+      "summary": "i got my hands on the brand new tiger amethyst comfort blanket the rich amethyst perp light pink and deep plum tiger stripes is to die for this is the biggest size you can get, they call it the mega…",
+      "full": [
+       [
+        0.0,
+        "i got my hands on the brand new tiger amethyst comfort blanket"
+       ],
+       [
+        4.64,
+        "the rich amethyst perp light pink and deep plum tiger stripes is to die for"
+       ],
+       [
+        11.04,
+        "this is the biggest size you can get, they call it the mega dreamer size and it's freaking"
+       ],
+       [
+        14.94,
+        "huge look at how flowy it is"
+       ],
+       [
+        16.9,
+        "this is so"
+       ],
+       [
+        17.7,
+        "this is so big i could literally wrap myself up like three times in it"
+       ],
+       [
+        21.14,
+        "comfort is the softest blanket you will ever feel in your life"
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "shop_shiesty",
+     "video_id": "7628626385275325710",
+     "url": "https://www.tiktok.com/@shop_shiesty/video/7628626385275325710",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 78550.0,
+     "views": 2830000.0,
+     "items_sold": "861",
+     "posted": "2026-04-14",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 14.79,
+      "downloaded_from": "https://www.tiktok.com/@shop_shiesty/video/7628626385275325710",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7628626385275325710/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7628626385275325710/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7628626385275325710/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7628626385275325710/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7628626385275325710/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.24,
+       "src": "assets/storyboard/7628626385275325710/hold.jpg"
+      },
+      "body": {
+       "t": 7.8,
+       "src": "assets/storyboard/7628626385275325710/body.jpg"
+      },
+      "close": {
+       "t": 13.19,
+       "src": "assets/storyboard/7628626385275325710/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7628626385275325710/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7628626385275325710/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7628626385275325710/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7628626385275325710/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7628626385275325710/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7628626385275325710/strip/006.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Deal ends today😭",
+     "rank": 4,
+     "tx_wps": 4.8,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        6.74
+       ],
+       "body": [
+        6.74,
+        9.79
+       ],
+       "close": [
+        9.79,
+        14.79
+       ]
+      },
+      "hook": [
+       "This is going",
+       "to be the last day",
+       "to get it for crazy prices like",
+       "this.",
+       ""
+      ],
+      "hold": "If you want to get this, make sure you add it to your cart and go all the way to the checkout",
+      "body": "because TikTok will automatically apply your coupons and",
+      "close": "discounts.…",
+      "strip": [
+       "This is going to be the last day to get it for crazy prices like",
+       "this. If you want to get this, make sure you add it to your",
+       "cart and go all the way to the checkout because TikTok",
+       "will automatically apply your coupons and discounts.",
+       "But today is going to be the last day because they end",
+       "the sale tonight at midnight. So go get your steal right now."
+      ],
+      "summary": "This is going to be the last day to get it for crazy prices like this.…",
+      "full": [
+       [
+        0.0,
+        "This is going to be the last day to get it for crazy prices like this."
+       ],
+       [
+        3.12,
+        "If you want to get this, make sure you add it to your cart and go all the way to the checkout"
+       ],
+       [
+        6.78,
+        "because TikTok will automatically apply your coupons and discounts."
+       ],
+       [
+        10.44,
+        "But today is going to be the last day because they end the sale tonight at midnight."
+       ],
+       [
+        13.68,
+        "So go get your steal right now."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "karin.recomends",
+     "video_id": "7669173633780174093",
+     "url": "https://www.tiktok.com/@karin.recomends/video/7669173633780174093",
+     "product": "【FallPickDeals 】ROSEKIND Summer Ice Cream Blanket,Breathable Oversized Design,Lightweight,Comfy Bedding,Gifts,Teenage Bedroom Accessories,Anxiety Relief, Silky Soft & Durable,OEKO-TEX Certified, Office Rest,Must be used with an air conditioner,familyfun",
+     "product_id": "1732385005641240750",
+     "gmv": 74160.0,
+     "views": 1070000.0,
+     "items_sold": "3.9k",
+     "posted": "2026-08-01",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 31.11,
+      "downloaded_from": "https://www.tiktok.com/@karin.recomends/video/7669173633780174093",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7669173633780174093/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7669173633780174093/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.0,
+        "src": "assets/storyboard/7669173633780174093/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7669173633780174093/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7669173633780174093/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7669173633780174093/hold.jpg"
+      },
+      "body": {
+       "t": 15.96,
+       "src": "assets/storyboard/7669173633780174093/body.jpg"
+      },
+      "close": {
+       "t": 29.11,
+       "src": "assets/storyboard/7669173633780174093/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7669173633780174093/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7669173633780174093/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7669173633780174093/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7669173633780174093/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7669173633780174093/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7669173633780174093/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7669173633780174093/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7669173633780174093/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7669173633780174093/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7669173633780174093/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7669173633780174093/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7669173633780174093/strip/012.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Edredones fríos ideal para este verano ❄️🧊😍 #tiktokshopcreatorpicks #tiktokshopstockup #tiktokshopsummersale #coolingcomforter #edredones ",
+     "rank": 5,
+     "tx_wps": 3.41,
+     "tx": {
+      "speech": true,
+      "language": "es",
+      "translated": true,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.3
+       ],
+       "body": [
+        7.3,
+        26.11
+       ],
+       "close": [
+        26.11,
+        31.11
+       ]
+      },
+      "hook": [
+       "I not only ordered",
+       "one",
+       "or two, but four",
+       "of these cold,",
+       ""
+      ],
+      "hold": "cold, if it is that for the price that they put on it, it is definitely an offer. If",
+      "body": "you are one of the people who go up a lot at night and now in…",
+      "close": "If you want to order it, here is the link.",
+      "strip": [
+       "I not only ordered one or two, but four of",
+       "these cold, if it is that for the price that they put",
+       "on it, it is definitely an offer. If you",
+       "are one of the people who go up a lot at night and now in",
+       "this summer season, you should try these",
+       "warm clothes that are thick but at the same time",
+       "cold. With this you can sleep well and",
+       "you will not feel even the slightest",
+       "heat, you will not even need to",
+       "turn on the heating at all, look at these",
+       "four colors. If",
+       "you want to order it, here is the link."
+      ],
+      "summary": "I not only ordered one or two, but four of these cold, if it is that for the price that they put on it, it is definitely an offer.…",
+      "full": [
+       [
+        0.0,
+        "I not only ordered one or two, but four of these cold, if it is that for the price that they put on it, it is definitely an offer."
+       ],
+       [
+        6.94,
+        "If you are one of the people who go up a lot at night and now in this summer season, you should try these warm clothes that are thick but at the same time cold."
+       ],
+       [
+        15.5,
+        "With this you can sleep well and you will not feel even the slightest heat, you will not even need to turn on the heating at all, look at these four colors."
+       ],
+       [
+        25.76,
+        "If you want to order it, here is the link."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "juliacvlogs",
+     "video_id": "7692968801033407758",
+     "url": "https://www.tiktok.com/@juliacvlogs/video/7692968801033407758",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 70610.0,
+     "views": 2590000.0,
+     "items_sold": "766",
+     "posted": "2026-10-04",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 14.58,
+      "downloaded_from": "https://www.tiktok.com/@juliacvlogs/video/7692968801033407758",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7692968801033407758/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7692968801033407758/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7692968801033407758/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7692968801033407758/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.0,
+        "src": "assets/storyboard/7692968801033407758/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.57,
+       "src": "assets/storyboard/7692968801033407758/hold.jpg"
+      },
+      "body": {
+       "t": 7.09,
+       "src": "assets/storyboard/7692968801033407758/body.jpg"
+      },
+      "close": {
+       "t": 12.98,
+       "src": "assets/storyboard/7692968801033407758/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7692968801033407758/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7692968801033407758/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7692968801033407758/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7692968801033407758/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7692968801033407758/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7692968801033407758/strip/006.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Need every size @Comfrt  #comfrt #softblanket #blanket ",
+     "rank": 6,
+     "tx_wps": 3.36,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.07
+       ],
+       "body": [
+        7.07,
+        9.58
+       ],
+       "close": [
+        9.58,
+        14.58
+       ]
+      },
+      "hook": [
+       "I could go",
+       "and read your",
+       "mind, think about",
+       "your dumb face",
+       ""
+      ],
+      "hold": "all the time, I'm living in your glass house, I'm outside !\"",
+      "body": "Looking at your blue eyes, did",
+      "close": "it just hurt me and make me cry?…",
+      "strip": [
+       "I could go and read your mind, think about your",
+       "dumb face all the time, I'm living in your glass house, I'm",
+       "outside !\" Looking",
+       "at your blue eyes, did it just hurt",
+       "me and make me cry? Smiling through it all, yeah, that's",
+       "my life, you're in it"
+      ],
+      "summary": "I could go and read your mind, think about your dumb face all the time, I'm living in your glass house, I'm outside !\" Looking at your blue eyes, did it just hurt me and make me cry?…",
+      "full": [
+       [
+        0.0,
+        "I could go and read your mind, think about your dumb face all the time, I'm living in your glass house, I'm outside !\""
+       ],
+       [
+        7.26,
+        "Looking at your blue eyes, did it just hurt me and make me cry? Smiling through it all, yeah, that's my life, you're in it"
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "scrunchymamafinds",
+     "video_id": "7630182555953728781",
+     "url": "https://www.tiktok.com/@scrunchymamafinds/video/7630182555953728781",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 58190.0,
+     "views": 2060000.0,
+     "items_sold": "638",
+     "posted": "2026-04-18",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 7.31,
+      "downloaded_from": "https://www.tiktok.com/@scrunchymamafinds/video/7630182555953728781",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7630182555953728781/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7630182555953728781/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7630182555953728781/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7630182555953728781/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.0,
+        "src": "assets/storyboard/7630182555953728781/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 2.59,
+       "src": "assets/storyboard/7630182555953728781/hold.jpg"
+      },
+      "body": {
+       "t": 4.06,
+       "src": "assets/storyboard/7630182555953728781/body.jpg"
+      },
+      "close": {
+       "t": 5.65,
+       "src": "assets/storyboard/7630182555953728781/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7630182555953728781/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7630182555953728781/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7630182555953728781/strip/003.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "It’s so so soft  #tiktokshopcreatorpicks ",
+     "rank": 7,
+     "tx_wps": 1.64,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        6.0
+       ],
+       "body": [
+        6.0,
+        6.0
+       ],
+       "close": [
+        6.0,
+        7.31
+       ]
+      },
+      "hook": [
+       "",
+       "",
+       "Do",
+       "you know you have",
+       ""
+      ],
+      "hold": "30 minutes? 30 minutes? 30,",
+      "body": "",
+      "close": "30, yes!",
+      "strip": [
+       "Do you",
+       "know you have 30 minutes?",
+       "30 minutes? 30, 30, yes!"
+      ],
+      "summary": "Do you know you have 30 minutes?…",
+      "full": [
+       [
+        1.52,
+        "Do you know you have 30 minutes?"
+       ],
+       [
+        4.94,
+        "30 minutes?"
+       ],
+       [
+        5.84,
+        "30, 30, yes!"
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "tayypalmer",
+     "video_id": "7666159611958889758",
+     "url": "https://www.tiktok.com/@tayypalmer/video/7666159611958889758",
+     "product": "Mellow Sleep | Cloud Throw Blanket - Cloud Like Faux Rabbit Fur Plush Blanket, Ultra Soft Fluffy Fleece Throw for Stress & Anxiety Relief, Thick Warm Cozy Blanket for Couch, Bed, Travel & Relaxation",
+     "product_id": "1729507534535169105",
+     "gmv": 51790.0,
+     "views": 2160000.0,
+     "items_sold": "996",
+     "posted": "2026-07-25",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 55.17,
+      "downloaded_from": "https://www.tiktok.com/@tayypalmer/video/7666159611958889758",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7666159611958889758/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7666159611958889758/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7666159611958889758/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7666159611958889758/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.0,
+        "src": "assets/storyboard/7666159611958889758/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7666159611958889758/hold.jpg"
+      },
+      "body": {
+       "t": 27.98,
+       "src": "assets/storyboard/7666159611958889758/body.jpg"
+      },
+      "close": {
+       "t": 52.97,
+       "src": "assets/storyboard/7666159611958889758/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7666159611958889758/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7666159611958889758/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7666159611958889758/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7666159611958889758/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7666159611958889758/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7666159611958889758/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7666159611958889758/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7666159611958889758/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7666159611958889758/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7666159611958889758/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7666159611958889758/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7666159611958889758/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7666159611958889758/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7666159611958889758/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7666159611958889758/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7666159611958889758/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7666159611958889758/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7666159611958889758/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7666159611958889758/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7666159611958889758/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7666159611958889758/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7666159611958889758/strip/022.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "espresso, latte, dark roast are here 🧋🤎🍂😴 @Mellow Sleep #mellow #oversizedblanket #softblanket #cozybedroom #fallbedding ",
+     "rank": 8,
+     "tx_wps": 2.16,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.3
+       ],
+       "body": [
+        7.3,
+        50.17
+       ],
+       "close": [
+        50.17,
+        55.17
+       ]
+      },
+      "hook": [
+       "telling",
+       "you!",
+       "When you feel this thing you are never",
+       "going to want to leave your",
+       ""
+      ],
+      "hold": "bed. Mellow just dropped their oversized clow fur with",
+      "body": "made it slightly weighted.…",
+      "close": "to sell out really, really fast.…",
+      "strip": [
+       "telling you! When you feel this thing you are never going",
+       "to want to leave your bed. Mellow just dropped",
+       "their oversized clow fur with",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "made it slightly weighted. This is so good.",
+       "They just launched it in the extra large sizes in these fall colors.",
+       "They have this. They have this espresso. They have like a black, I think they call it dark",
+       "roast. And they have a latte marble looking one and it is",
+       "beautiful. But knowing that and all the hype that's behind it,",
+       "it's going to sell out really, really fast. So if you want to get it before it's",
+       "gone and the extra large size in this color, I'll put the link down below."
+      ],
+      "summary": "telling you!When you feel this thing you are never going to want toleave your bed.Mellow just dropped their oversized clow fur with made it slightly weighted.…",
+      "full": [
+       [
+        0.0,
+        "telling you!When you feel this thing you are never going to want toleave your bed.Mellow just dropped their oversized clow fur with"
+       ],
+       [
+        37.38,
+        "made it slightly weighted. This is so good. They just launched it in the extra large sizes in these"
+       ],
+       [
+        42.18,
+        "fall colors. They have this. They have this espresso. They have like a black, I think they call it"
+       ],
+       [
+        44.82,
+        "dark roast. And they have a latte marble looking one and it is beautiful. But knowing that and"
+       ],
+       [
+        48.92,
+        "all the hype that's behind it, it's going to sell out really, really fast. So if you want"
+       ],
+       [
+        51.74,
+        "to get it before it's gone and the extra large size in this color, I'll put the link down below."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "verifiedviews",
+     "video_id": "7634975046775229710",
+     "url": "https://www.tiktok.com/@verifiedviews/video/7634975046775229710",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 41050.0,
+     "views": 1550000.0,
+     "items_sold": "444",
+     "posted": "2026-05-02",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 17.58,
+      "downloaded_from": "https://www.tiktok.com/@verifiedviews/video/7634975046775229710",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7634975046775229710/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7634975046775229710/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7634975046775229710/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7634975046775229710/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7634975046775229710/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7634975046775229710/hold.jpg"
+      },
+      "body": {
+       "t": 8.99,
+       "src": "assets/storyboard/7634975046775229710/body.jpg"
+      },
+      "close": {
+       "t": 15.38,
+       "src": "assets/storyboard/7634975046775229710/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7634975046775229710/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7634975046775229710/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7634975046775229710/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7634975046775229710/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7634975046775229710/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7634975046775229710/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7634975046775229710/strip/007.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "So cozy!! #TikTokShopCreatorPicks #Tiktokshopstockup #BigDreamStartSmall *Disclaimer: Prices, sales, coupons, discounts are accurate at the time this video is p",
+     "rank": 9,
+     "tx_wps": 3.41,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.9
+       ],
+       "body": [
+        7.9,
+        12.579999999999998
+       ],
+       "close": [
+        12.579999999999998,
+        17.58
+       ]
+      },
+      "hook": [
+       "Here's",
+       "how to get this on a",
+       "triple discount. Tap the",
+       "orange shopping cart",
+       ""
+      ],
+      "hold": "cart below. That's going to unlock your first discount which is a flash sale. Your second discount is going",
+      "body": "be fast and free shipping, and your final discount will be any codes you, you do…",
+      "close": "hurry because the sale ends tonight so don't miss out.",
+      "strip": [
+       "Here's how to get this on a triple discount. Tap the",
+       "orange shopping cart below. That's going to unlock your",
+       "first discount which is a flash sale. Your second discount",
+       "is going be fast and free shipping, and your final discount",
+       "will be any codes you, you do need to",
+       "hurry because the sale ends tonight so don't miss out.",
+       ""
+      ],
+      "summary": "Here's how to get this on a triple discount.…",
+      "full": [
+       [
+        0.0,
+        "Here's how to get this on a triple discount. Tap the orange shopping cart below."
+       ],
+       [
+        3.92,
+        "That's going to unlock your first discount which is a flash sale. Your second discount is going"
+       ],
+       [
+        7.8,
+        "be fast and free shipping, and your final discount will be any codes you, you do need to hurry"
+       ],
+       [
+        12.72,
+        "because the sale ends tonight so don't miss out."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "jordan_b_smith",
+     "video_id": "7634326333555887373",
+     "url": "https://www.tiktok.com/@jordan_b_smith/video/7634326333555887373",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 40760.0,
+     "views": 1540000.0,
+     "items_sold": "439",
+     "posted": "2026-04-29",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 10.67,
+      "downloaded_from": "https://www.tiktok.com/@jordan_b_smith/video/7634326333555887373",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7634326333555887373/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7634326333555887373/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7634326333555887373/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7634326333555887373/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7634326333555887373/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 3.6,
+       "src": "assets/storyboard/7634326333555887373/hold.jpg"
+      },
+      "body": {
+       "t": 5.73,
+       "src": "assets/storyboard/7634326333555887373/body.jpg"
+      },
+      "close": {
+       "t": 8.87,
+       "src": "assets/storyboard/7634326333555887373/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7634326333555887373/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7634326333555887373/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7634326333555887373/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7634326333555887373/strip/004.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Your bed, your new HUGE comfrt dreamer blanket + one more episode…or 5 💖🙌🏼💭 #comfrt #comfrtdreamerblanket #dreamerblanket #weightedblanket #cozyblanket @Comfrt ",
+     "rank": 10,
+     "tx_wps": 1.03,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        6.1
+       ],
+       "body": [
+        6.1,
+        6.1
+       ],
+       "close": [
+        6.1,
+        10.67
+       ]
+      },
+      "hook": [
+       "Hey,",
+       "it's",
+       "freezing.",
+       "Oh, what do you need hot tea",
+       ""
+      ],
+      "hold": "hot tea coffee?",
+      "body": "",
+      "close": "",
+      "strip": [
+       "Hey, it's freezing. Oh,",
+       "what do you need hot tea coffee?",
+       "",
+       ""
+      ],
+      "summary": "Hey, it's freezing.…",
+      "full": [
+       [
+        0.18,
+        "Hey, it's freezing. Oh, what do you need hot tea coffee?"
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "alaina_marie333",
+     "video_id": "7676986323701419294",
+     "url": "https://www.tiktok.com/@alaina_marie333/video/7676986323701419294",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 39880.0,
+     "views": 1520000.0,
+     "items_sold": "429",
+     "posted": "2026-08-22",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 38.2,
+      "downloaded_from": "https://www.tiktok.com/@alaina_marie333/video/7676986323701419294",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7676986323701419294/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7676986323701419294/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7676986323701419294/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7676986323701419294/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7676986323701419294/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7676986323701419294/hold.jpg"
+      },
+      "body": {
+       "t": 19.3,
+       "src": "assets/storyboard/7676986323701419294/body.jpg"
+      },
+      "close": {
+       "t": 36.6,
+       "src": "assets/storyboard/7676986323701419294/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7676986323701419294/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7676986323701419294/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7676986323701419294/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7676986323701419294/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7676986323701419294/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7676986323701419294/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7676986323701419294/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7676986323701419294/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7676986323701419294/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7676986323701419294/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7676986323701419294/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7676986323701419294/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7676986323701419294/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7676986323701419294/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7676986323701419294/strip/015.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "The limit does not exist 💀 @Comfrt ",
+     "rank": 11,
+     "tx_wps": 2.3,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.9
+       ],
+       "body": [
+        7.9,
+        33.2
+       ],
+       "close": [
+        33.2,
+        38.2
+       ]
+      },
+      "hook": [
+       "1, 2,",
+       "",
+       "2, 3, 4, 5,",
+       "6,",
+       ""
+      ],
+      "hold": "7, 8, 9, 10, 11, 12, 13, 14, 15,",
+      "body": "16, 17, 18, 19, 20, 21, 22, 23 comfort dreamer blanket.…",
+      "close": "massive they just did a massive restock though so grab the color that you want now…",
+      "strip": [
+       "1, 2, 2, 3, 4, 5,",
+       "6, 7, 8, 9, 10,",
+       "11, 12, 13, 14, 15,",
+       "16, 17, 18, 19,",
+       "20, 21, 22,",
+       "23 comfort dreamer",
+       "blanket. I lied 24,",
+       "25 of the most plush luxurious",
+       "most affordable blankets on the market. Four",
+       "different sizes and like almost 40 colors",
+       "to choose from. This is their new",
+       "buttercream color in",
+       "the mega size though this thing is",
+       "actually massive they just did a massive",
+       "restock though so grab the color that you want now before it's too late"
+      ],
+      "summary": "1, 2, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 comfort dreamer blanket.…",
+      "full": [
+       [
+        0.0,
+        "1, 2, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 comfort dreamer"
+       ],
+       [
+        15.12,
+        "blanket. I lied 24, 25 of the most plush luxurious most affordable blankets on the market. Four"
+       ],
+       [
+        22.5,
+        "different sizes and like almost 40 colors to choose from. This is their new buttercream color"
+       ],
+       [
+        28.98,
+        "in the mega size though this thing is actually massive they just did a"
+       ],
+       [
+        34.66,
+        "massive restock though so grab the color that you want now before it's too"
+       ],
+       [
+        37.98,
+        "late"
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "caitlinsmith_5",
+     "video_id": "7688857347162131725",
+     "url": "https://www.tiktok.com/@caitlinsmith_5/video/7688857347162131725",
+     "product": "【Fall Deals For You】Bedsure Weighted Faux Rabbit Fur Fluffy Fabric Blanket - Soft, Thick Fleece Sherpa Blanket for Christmas, Stress Relief, Feel Cosy, Women's Gift for Anxiety",
+     "product_id": "1729448272245854454",
+     "gmv": 36020.0,
+     "views": 4070000.0,
+     "items_sold": "1.24k",
+     "posted": "2026-09-23",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 26.4,
+      "downloaded_from": "https://www.tiktok.com/@caitlinsmith_5/video/7688857347162131725",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7688857347162131725/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.5,
+        "src": "assets/storyboard/7688857347162131725/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7688857347162131725/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7688857347162131725/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7688857347162131725/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.0,
+       "src": "assets/storyboard/7688857347162131725/hold.jpg"
+      },
+      "body": {
+       "t": 13.2,
+       "src": "assets/storyboard/7688857347162131725/body.jpg"
+      },
+      "close": {
+       "t": 24.8,
+       "src": "assets/storyboard/7688857347162131725/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7688857347162131725/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7688857347162131725/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7688857347162131725/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7688857347162131725/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7688857347162131725/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7688857347162131725/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7688857347162131725/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7688857347162131725/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7688857347162131725/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7688857347162131725/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7688857347162131725/strip/011.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "I’m speechless. It’s stunning 🥹 @Bedsure #weightedblanket #blanket #blankets #cozy #Fall ",
+     "rank": 12,
+     "tx_wps": 0.64,
+     "tx": {
+      "speech": false
+     },
+     "note": "Manually checked (frames + audio): no creator voiceover. Trending song audio (Whisper only caught lyrics, 'heaven is a place on earth with you'). Story told via on-screen text \"SAND — weighted blanket for Fall\" over drop/texture/cozy-bedroom shots."
+    },
+    {
+     "creator": "yaptrapped",
+     "video_id": "7678016823933095182",
+     "url": "https://www.tiktok.com/@yaptrapped/video/7678016823933095182",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 35450.0,
+     "views": 1320000.0,
+     "items_sold": "385",
+     "posted": "2026-08-25",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 14.33,
+      "downloaded_from": "https://www.tiktok.com/@yaptrapped/video/7678016823933095182",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7678016823933095182/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.7,
+        "src": "assets/storyboard/7678016823933095182/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7678016823933095182/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7678016823933095182/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7678016823933095182/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.3,
+       "src": "assets/storyboard/7678016823933095182/hold.jpg"
+      },
+      "body": {
+       "t": 6.97,
+       "src": "assets/storyboard/7678016823933095182/body.jpg"
+      },
+      "close": {
+       "t": 12.53,
+       "src": "assets/storyboard/7678016823933095182/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7678016823933095182/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7678016823933095182/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7678016823933095182/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7678016823933095182/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7678016823933095182/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7678016823933095182/strip/006.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": null,
+     "rank": 13,
+     "tx_wps": 4.33,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        6.8
+       ],
+       "body": [
+        6.8,
+        9.33
+       ],
+       "close": [
+        9.33,
+        14.33
+       ]
+      },
+      "hook": [
+       "bitch go",
+       "check your",
+       "coupons",
+       "because the dreamer blankets",
+       ""
+      ],
+      "hold": "have some crazy coupons today and i justtalked up another one because i need that pink",
+      "body": "one i~\"need it in my life and i'm not sorry about it especially",
+      "close": "because it's on double discount and these sell so well that i never see them on…",
+      "strip": [
+       "bitch go check your coupons because the",
+       "dreamer blankets have some crazy coupons today and",
+       "i justtalked up another one because i need that pink one i~\"need it in my",
+       "life and i'm not sorry about it especially because it's on",
+       "double discount and these sell so well that i never see them on",
+       "discount so i needed to spread the word"
+      ],
+      "summary": "bitch go check your coupons because the dreamer blankets have some crazy coupons today and i justtalked up another one because i need that pink one i~\"need it in my life and i'm not sorry about it especially because it's…",
+      "full": [
+       [
+        0.0,
+        "bitch go check your coupons because the dreamer blankets have some crazy coupons today and i justtalked up another one because i need that pink one i~\"need it in my life and i'm not sorry about it especially"
+       ],
+       [
+        9.08,
+        "because it's on double discount and these sell so well that i never see them on discount so"
+       ],
+       [
+        13.34,
+        "i needed to spread the word"
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "macsmotion",
+     "video_id": "7687783539005345038",
+     "url": "https://www.tiktok.com/@macsmotion/video/7687783539005345038",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 35120.0,
+     "views": 1230000.0,
+     "items_sold": "387",
+     "posted": "2026-09-20",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 35.09,
+      "downloaded_from": "https://www.tiktok.com/@macsmotion/video/7687783539005345038",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7687783539005345038/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7687783539005345038/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 0.8,
+        "src": "assets/storyboard/7687783539005345038/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7687783539005345038/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.4,
+        "src": "assets/storyboard/7687783539005345038/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.4,
+       "src": "assets/storyboard/7687783539005345038/hold.jpg"
+      },
+      "body": {
+       "t": 17.94,
+       "src": "assets/storyboard/7687783539005345038/body.jpg"
+      },
+      "close": {
+       "t": 33.29,
+       "src": "assets/storyboard/7687783539005345038/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7687783539005345038/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7687783539005345038/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7687783539005345038/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7687783539005345038/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7687783539005345038/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7687783539005345038/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7687783539005345038/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7687783539005345038/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7687783539005345038/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7687783539005345038/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7687783539005345038/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7687783539005345038/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7687783539005345038/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7687783539005345038/strip/014.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "They’re both very good though 🔥 #comfrt #blanket #comfrtdreamerblanket ",
+     "rank": 14,
+     "tx_wps": 4.39,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.9
+       ],
+       "body": [
+        7.9,
+        30.090000000000003
+       ],
+       "close": [
+        30.090000000000003,
+        35.09
+       ]
+      },
+      "hook": [
+       "",
+       "American",
+       "blanket versus",
+       "Japanese blanket,",
+       ""
+      ],
+      "hold": "blanket, which is better? Well, mine's a hundred inches by a hundred eight inches and it's",
+      "body": "15 Frickin miles a hundred eight by 90 inches and it's pretty light.…",
+      "close": "if you guys also want the link, I'll drop it somewhere down here, but I would…",
+      "strip": [
+       "American blanket versus Japanese",
+       "blanket, which is better? Well,",
+       "mine's a hundred inches by a hundred eight inches and",
+       "it's 15 Frickin miles a hundred eight by",
+       "90 inches and it's pretty light. Well mine's super",
+       "thick and actually keeps me warm Well, this one's pretty thin.",
+       "Well, this one looks like it's so much softer What are you talking about?",
+       "This one was made with newer and like more high quality",
+       "material Which makes it feel like a frickin cloud you feel that",
+       "well ,I heard the Japanese one was pretty expensive actually Yeah,",
+       "it was but right now they're running like a massive down on these",
+       "I also had a couple coupons and actually made it really cheap",
+       "So if you guys also want the link, I'll drop it somewhere down here, but I would",
+       "be quick, because the last time I checked on the stock, they were selling out pretty fast."
+      ],
+      "summary": "American blanket versus Japanese blanket, which is better?…",
+      "full": [
+       [
+        0.0,
+        "American blanket versus Japanese blanket, which is better? Well, mine's a hundred inches by a hundred eight inches and it's 15"
+       ],
+       [
+        8.26,
+        "Frickin miles a hundred eight by 90 inches and it's pretty light. Well mine's super thick and actually keeps me warm"
+       ],
+       [
+        14.0,
+        "Well, this one's pretty thin. Well, this one looks like it's so much softer"
+       ],
+       [
+        16.74,
+        "What are you talking about? This one was made with newer and like more high quality material"
+       ],
+       [
+        20.24,
+        "Which makes it feel like a frickin cloud you feel that well,I heard the Japanese one was pretty expensive actually"
+       ],
+       [
+        24.8,
+        "Yeah, it was but right now they're running like a massive down on these"
+       ],
+       [
+        27.54,
+        "I also had a couple coupons and actually made it really cheap"
+       ],
+       [
+        29.92,
+        "So if you guys also want the link,"
+       ],
+       [
+        31.1,
+        "I'll drop it somewhere down here,"
+       ],
+       [
+        32.08,
+        "but I would be quick,"
+       ],
+       [
+        32.94,
+        "because the last time I checked on the stock,"
+       ],
+       [
+        34.16,
+        "they were selling out pretty fast."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "sarahxosanchez",
+     "video_id": "7692175116100193566",
+     "url": "https://www.tiktok.com/@sarahxosanchez/video/7692175116100193566",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 34200.0,
+     "views": 1230000.0,
+     "items_sold": "366",
+     "posted": "2026-10-02",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 29.5,
+      "downloaded_from": "https://www.tiktok.com/@sarahxosanchez/video/7692175116100193566",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7692175116100193566/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7692175116100193566/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7692175116100193566/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7692175116100193566/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.0,
+        "src": "assets/storyboard/7692175116100193566/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7692175116100193566/hold.jpg"
+      },
+      "body": {
+       "t": 14.95,
+       "src": "assets/storyboard/7692175116100193566/body.jpg"
+      },
+      "close": {
+       "t": 27.7,
+       "src": "assets/storyboard/7692175116100193566/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7692175116100193566/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7692175116100193566/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7692175116100193566/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7692175116100193566/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7692175116100193566/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7692175116100193566/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7692175116100193566/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7692175116100193566/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7692175116100193566/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7692175116100193566/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7692175116100193566/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7692175116100193566/strip/012.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "Perfect timing for my new blanket to get here!!! 😍 #comfrt #dreamerblanket #comfrtdreamerblanket #bfcm @Comfrt ",
+     "rank": 15,
+     "tx_wps": 3.97,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.3
+       ],
+       "body": [
+        7.3,
+        24.5
+       ],
+       "close": [
+        24.5,
+        29.5
+       ]
+      },
+      "hook": [
+       "please",
+       "check your coupons",
+       "on the comfort",
+       "dreamer blankets because",
+       ""
+      ],
+      "hold": "i just got mine for an insane price and it got here at the perfect timing we're",
+      "body": "about to go on a 17 hour road trip even got lucky enough to get my…",
+      "close": "of those purchases you're not gonna regret and you might even gain a little bit of…",
+      "strip": [
+       "please check your coupons on the comfort dreamer",
+       "blankets because i just got mine for an insane",
+       "price and it got here at the perfect timing we're about",
+       "to go on a 17 hour road trip even got",
+       "lucky enough to get my hands on the brand new amethyst",
+       "one i'm so happy i'm pretty sure they're already",
+       "sold out now i went ahead and splurged on the extra",
+       "because my husband is always stealing mine and look",
+       "how freaking big this is i can barely",
+       "hold it up this is definitely one of those purchases",
+       "you're not gonna regret and you might even gain a little",
+       "bit of arm muscle Oh my god, these are heavy."
+      ],
+      "summary": "please check your coupons on the comfort dreamer blankets because i just got mine for an insane price and it got here at the perfect timing we're about to go on a 17 hour road trip even got lucky enough…",
+      "full": [
+       [
+        0.0,
+        "please check your coupons on the comfort dreamer blankets because i just got mine for an insane"
+       ],
+       [
+        4.84,
+        "price and it got here at the perfect timing we're about to go on a 17 hour road trip even got lucky"
+       ],
+       [
+        10.34,
+        "enough to get my hands on the brand new amethyst one i'm so happy i'm pretty sure they're already"
+       ],
+       [
+        15.08,
+        "sold out now i went ahead and splurged on the extra because my husband is always stealing mine"
+       ],
+       [
+        19.32,
+        "and look how freaking big this is i can barely hold it up this is definitely one of those"
+       ],
+       [
+        24.76,
+        "purchases you're not gonna regret and you might even gain a little bit of arm muscle"
+       ],
+       [
+        28.06,
+        "Oh my god, these are heavy."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "heidiann__",
+     "video_id": "7689223131751402766",
+     "url": "https://www.tiktok.com/@heidiann__/video/7689223131751402766",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 31520.0,
+     "views": 1290000.0,
+     "items_sold": "336",
+     "posted": "2026-09-24",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 33.45,
+      "downloaded_from": "https://www.tiktok.com/@heidiann__/video/7689223131751402766",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.4,
+        "src": "assets/storyboard/7689223131751402766/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7689223131751402766/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7689223131751402766/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.2,
+        "src": "assets/storyboard/7689223131751402766/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7689223131751402766/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.2,
+       "src": "assets/storyboard/7689223131751402766/hold.jpg"
+      },
+      "body": {
+       "t": 17.12,
+       "src": "assets/storyboard/7689223131751402766/body.jpg"
+      },
+      "close": {
+       "t": 31.65,
+       "src": "assets/storyboard/7689223131751402766/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7689223131751402766/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7689223131751402766/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7689223131751402766/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7689223131751402766/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7689223131751402766/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7689223131751402766/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7689223131751402766/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7689223131751402766/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7689223131751402766/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7689223131751402766/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7689223131751402766/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7689223131751402766/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7689223131751402766/strip/013.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "please don’t make me count the hoodies next 🫣🤭☁️🧸 @Comfrt #comfrt #home #homedecor #blanket #cozy ",
+     "rank": 16,
+     "tx_wps": 4.33,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.7
+       ],
+       "body": [
+        7.7,
+        28.450000000000003
+       ],
+       "close": [
+        28.450000000000003,
+        33.45
+       ]
+      },
+      "hook": [
+       "1 2",
+       "3",
+       "4",
+       "5 6",
+       "7"
+      ],
+      "hold": "8 9 10 11 12 13 14 15 16 17 18",
+      "body": "pause 19 20 21 and 22 how many is too many?…",
+      "close": "these are the most old blankets ?…",
+      "strip": [
+       "1 2 3 4 5",
+       "6 7 8 9 10 11 12",
+       "13 14 15 16 17 18",
+       "pause 19 20 21",
+       "and 22 how many is too many? those just",
+       "make me so happy this just reminds me of like all the different ice cream",
+       "flavors to booze you on a budget baddie i want the super",
+       "nice things but i don .t want to pay top dollar for them these are made with",
+       "the same materials those other super comparable blankets are",
+       "but these are like a fourth of the price and they don't shine on your clothes",
+       "also make the literal best gift and make your house feel so",
+       "cozy there's a reason why these are the most old blankets ?",
+       "America these runs such a good deal right now and you can check your coupons. I'm gonna have these drop below"
+      ],
+      "summary": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 pause 19 20 21 and 22 how many is too many?…",
+      "full": [
+       [
+        0.0,
+        "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 pause 19 20 21 and 22 how many is too many?"
+       ],
+       [
+        12.22,
+        "those just make me so happy this just reminds me of like all the different ice cream flavors"
+       ],
+       [
+        15.5,
+        "to booze you on a budget baddie i want the super nice things but i don.t want to pay top dollar"
+       ],
+       [
+        18.9,
+        "for them these are made with the same materials those other super comparable blankets are but these"
+       ],
+       [
+        22.82,
+        "are like a fourth of the price and they don't shine on your clothes also make the literal best"
+       ],
+       [
+        26.12,
+        "gift and make your house feel so cozy there's a reason why these are the most old blankets"
+       ],
+       [
+        29.48,
+        "? America these runs such a good deal right now and you can check your coupons. I'm gonna have these drop below"
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "itgirl.kenny",
+     "video_id": "7686163049325120782",
+     "url": "https://www.tiktok.com/@itgirl.kenny/video/7686163049325120782",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 29340.0,
+     "views": 1230000.0,
+     "items_sold": "311",
+     "posted": "2026-09-16",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 54.97,
+      "downloaded_from": "https://www.tiktok.com/@itgirl.kenny/video/7686163049325120782",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7686163049325120782/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7686163049325120782/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7686163049325120782/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7686163049325120782/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7686163049325120782/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 4.8,
+       "src": "assets/storyboard/7686163049325120782/hold.jpg"
+      },
+      "body": {
+       "t": 27.88,
+       "src": "assets/storyboard/7686163049325120782/body.jpg"
+      },
+      "close": {
+       "t": 53.37,
+       "src": "assets/storyboard/7686163049325120782/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7686163049325120782/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7686163049325120782/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7686163049325120782/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7686163049325120782/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7686163049325120782/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7686163049325120782/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7686163049325120782/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7686163049325120782/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7686163049325120782/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7686163049325120782/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7686163049325120782/strip/011.jpg"
+       },
+       {
+        "t": 27.5,
+        "src": "assets/storyboard/7686163049325120782/strip/012.jpg"
+       },
+       {
+        "t": 30.0,
+        "src": "assets/storyboard/7686163049325120782/strip/013.jpg"
+       },
+       {
+        "t": 32.5,
+        "src": "assets/storyboard/7686163049325120782/strip/014.jpg"
+       },
+       {
+        "t": 35.0,
+        "src": "assets/storyboard/7686163049325120782/strip/015.jpg"
+       },
+       {
+        "t": 37.5,
+        "src": "assets/storyboard/7686163049325120782/strip/016.jpg"
+       },
+       {
+        "t": 40.0,
+        "src": "assets/storyboard/7686163049325120782/strip/017.jpg"
+       },
+       {
+        "t": 42.5,
+        "src": "assets/storyboard/7686163049325120782/strip/018.jpg"
+       },
+       {
+        "t": 45.0,
+        "src": "assets/storyboard/7686163049325120782/strip/019.jpg"
+       },
+       {
+        "t": 47.5,
+        "src": "assets/storyboard/7686163049325120782/strip/020.jpg"
+       },
+       {
+        "t": 50.0,
+        "src": "assets/storyboard/7686163049325120782/strip/021.jpg"
+       },
+       {
+        "t": 52.5,
+        "src": "assets/storyboard/7686163049325120782/strip/022.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": null,
+     "rank": 17,
+     "tx_wps": 4.06,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.3
+       ],
+       "body": [
+        7.3,
+        49.97
+       ],
+       "close": [
+        49.97,
+        54.97
+       ]
+      },
+      "hook": [
+       "This is a medium",
+       "sized",
+       "dreamer, this",
+       "is a large dreamer,",
+       "this"
+      ],
+      "hold": "is an XL dreamer, and this is the ultimate weighted blanket, the mega dreamer. Here's a size",
+      "body": "comparison so you know exactly which one is perfect for you.…",
+      "close": "",
+      "strip": [
+       "This is a medium sized dreamer, this is a large",
+       "dreamer, this is an XL dreamer, and this is the",
+       "ultimate weighted blanket, the mega dreamer. Here's a size comparison",
+       "so you know exactly which one is perfect for you. The",
+       "medium is going to be 50 by 60 and weighs 5lbs, this is the",
+       "personal sized blanket or a throw blanket. The large is going to",
+       "be 60 by 80 and weighs 7lbs, this is actually my",
+       "personal favorite because you still can use it as a personal blanket but you",
+       "can also share with like a friend or family member. This is where we start to get a",
+       "little bit bigger, this is going to be the extra large dreamer which is 90 by",
+       "90 inches and weighs 11. a half pounds. This one can be shared",
+       "with multiple people or if you want to use it for your bed this fits perfectly on",
+       "a queen -size bed. And last but not least is going to be the mega",
+       "which is 100 by 108 inches and it weighs 15",
+       "pounds. These are seriously the most perfect way to blankets",
+       "out on the market. And now is the perfect time to go ahead and grab this",
+       "because Comfort is like a huge under summer sale",
+       "right now. These blankets are seriously amazing",
+       "",
+       "",
+       "",
+       ""
+      ],
+      "summary": "This is a medium sized dreamer, this is a large dreamer, this is an XL dreamer, and this is the ultimate weighted blanket, the mega dreamer.…",
+      "full": [
+       [
+        0.0,
+        "This is a medium sized dreamer, this is a large dreamer, this is an XL dreamer, and this is the ultimate weighted blanket, the mega dreamer."
+       ],
+       [
+        6.72,
+        "Here's a size comparison so you know exactly which one is perfect for you."
+       ],
+       [
+        9.8,
+        "The medium is going to be 50 by 60 and weighs 5lbs, this is the personal sized blanket or a throw blanket."
+       ],
+       [
+        14.3,
+        "The large is going to be 60 by 80 and weighs 7lbs, this is actually my personal favorite because you still can use it as a personal blanket but you can also share with like a friend or family member."
+       ],
+       [
+        21.74,
+        "This is where we start to get a little bit bigger, this is going to be the extra large dreamer which is 90 by 90 inches and weighs 11."
+       ],
+       [
+        26.2,
+        "a half pounds. This one can be shared with multiple people or if you want to use it for your bed this"
+       ],
+       [
+        29.32,
+        "fits perfectly on a queen-size bed. And last but not least is going to be the mega which is 100 by"
+       ],
+       [
+        33.32,
+        "108 inches and it weighs 15 pounds. These are seriously the most perfect way to"
+       ],
+       [
+        37.3,
+        "blankets out on the market. And now is the perfect time to go ahead and grab this because"
+       ],
+       [
+        40.6,
+        "Comfort is like a huge under summer sale right now. These blankets are seriously amazing"
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "peach.sleep",
+     "video_id": "7668819453290810655",
+     "url": "https://www.tiktok.com/@peach.sleep/video/7668819453290810655",
+     "product": "【Black Friday】DOWNCOOL 950GSM Faux Fur Bubble Throw Blanket - Soft Luxury Faux Rabbit Fur Mink Plush Cozy Warm Leopard Print Home Goods for Couch, Bed - Unique Decor Throw Blankets for Movie Nights,#halloween,#christmasgift,familyfun",
+     "product_id": "1732408545061409692",
+     "gmv": 25730.0,
+     "views": 2670000.0,
+     "items_sold": "953",
+     "posted": "2026-07-31",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 15.58,
+      "downloaded_from": "https://www.tiktok.com/@peach.sleep/video/7668819453290810655",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7668819453290810655/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.7,
+        "src": "assets/storyboard/7668819453290810655/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.2,
+        "src": "assets/storyboard/7668819453290810655/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 1.8,
+        "src": "assets/storyboard/7668819453290810655/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7668819453290810655/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.07,
+       "src": "assets/storyboard/7668819453290810655/hold.jpg"
+      },
+      "body": {
+       "t": 8.19,
+       "src": "assets/storyboard/7668819453290810655/body.jpg"
+      },
+      "close": {
+       "t": 13.58,
+       "src": "assets/storyboard/7668819453290810655/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7668819453290810655/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7668819453290810655/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7668819453290810655/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7668819453290810655/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7668819453290810655/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7668819453290810655/strip/006.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "immediately ordered. #cheetahprint #throwblanket #blanket ",
+     "rank": 18,
+     "tx_wps": 2.18,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.57
+       ],
+       "body": [
+        7.57,
+        10.58
+       ],
+       "close": [
+        10.58,
+        15.58
+       ]
+      },
+      "hook": [
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      "hold": "",
+      "body": "Don't say I didn't",
+      "close": "warn you but if you've had your eye on this I'mt going to have it linked…",
+      "strip": [
+       "",
+       "",
+       "",
+       "",
+       "Don't say I didn't warn you but if you've had your eye on this I'mt going to have",
+       "it linked below. It's so big and cuddly you're never getting me out of this bed."
+      ],
+      "summary": "Don't say I didn't warn you but if you've had your eye on this I'mt going to have it linked below.…",
+      "full": [
+       [
+        9.84,
+        "Don't say I didn't warn you but if you've had your eye on this I'mt going to have it linked below."
+       ],
+       [
+        13.26,
+        "It's so big and cuddly you're never getting me out of this bed."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "jordyn_gunderson",
+     "video_id": "7688782641981689119",
+     "url": "https://www.tiktok.com/@jordyn_gunderson/video/7688782641981689119",
+     "product": "Comfrt | Lavender Ember Heated Blanket | Plush Faux Fur Blanket With 6 Heat Settings & Natural Lavender",
+     "product_id": "1732687061090079619",
+     "gmv": 25330.0,
+     "views": 1140000.0,
+     "items_sold": "217",
+     "posted": "2026-09-23",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 26.75,
+      "downloaded_from": "https://www.tiktok.com/@jordyn_gunderson/video/7688782641981689119",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7688782641981689119/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.9,
+        "src": "assets/storyboard/7688782641981689119/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.0,
+        "src": "assets/storyboard/7688782641981689119/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.4,
+        "src": "assets/storyboard/7688782641981689119/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 3.2,
+        "src": "assets/storyboard/7688782641981689119/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 5.2,
+       "src": "assets/storyboard/7688782641981689119/hold.jpg"
+      },
+      "body": {
+       "t": 13.78,
+       "src": "assets/storyboard/7688782641981689119/body.jpg"
+      },
+      "close": {
+       "t": 25.15,
+       "src": "assets/storyboard/7688782641981689119/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7688782641981689119/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7688782641981689119/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7688782641981689119/strip/003.jpg"
+       },
+       {
+        "t": 7.5,
+        "src": "assets/storyboard/7688782641981689119/strip/004.jpg"
+       },
+       {
+        "t": 10.0,
+        "src": "assets/storyboard/7688782641981689119/strip/005.jpg"
+       },
+       {
+        "t": 12.5,
+        "src": "assets/storyboard/7688782641981689119/strip/006.jpg"
+       },
+       {
+        "t": 15.0,
+        "src": "assets/storyboard/7688782641981689119/strip/007.jpg"
+       },
+       {
+        "t": 17.5,
+        "src": "assets/storyboard/7688782641981689119/strip/008.jpg"
+       },
+       {
+        "t": 20.0,
+        "src": "assets/storyboard/7688782641981689119/strip/009.jpg"
+       },
+       {
+        "t": 22.5,
+        "src": "assets/storyboard/7688782641981689119/strip/010.jpg"
+       },
+       {
+        "t": 25.0,
+        "src": "assets/storyboard/7688782641981689119/strip/011.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "smells so good wow ",
+     "rank": 19,
+     "tx_wps": 4.11,
+     "tx": {
+      "speech": true,
+      "language": "en",
+      "translated": false,
+      "windows": {
+       "hook": [
+        0,
+        3.0
+       ],
+       "hold": [
+        3.0,
+        7.7
+       ],
+       "body": [
+        7.7,
+        21.75
+       ],
+       "close": [
+        21.75,
+        26.75
+       ]
+      },
+      "hook": [
+       "So you're telling me",
+       "this",
+       "new comfort blanket actually",
+       "heats up and",
+       ""
+      ],
+      "hold": "and has lavender scent within it. If you know anything about lavender, it's so soothing, it's",
+      "body": "so calming and to have it under this blanket that's also a little bit weighted and…",
+      "close": "to smell the lavender, it's like the best combo and I'm sorry if it's already sold…",
+      "strip": [
+       "So you're telling me this new comfort blanket actually",
+       "heats up and has lavender scent within it.",
+       "If you know anything about lavender, it's so soothing,",
+       "it's so calming and to have it under this blanket that's",
+       "also a little bit weighted and heated, it's incredible,",
+       "so plushy, it's so soft. If you just need to",
+       "relax after a long day or you're feeling sick and you just",
+       "wanna take a nap in something soothing, this is your blanket.",
+       "Once you start the heat, then you can start to smell the lavender,",
+       "it's like the best combo and I'm sorry if it's already",
+       "sold out, I know it's limited edition."
+      ],
+      "summary": "So you're telling me this new comfort blanket actually heats up and has lavender scent within it.…",
+      "full": [
+       [
+        0.0,
+        "So you're telling me this new comfort blanket"
+       ],
+       [
+        1.96,
+        "actually heats up and has lavender scent within it."
+       ],
+       [
+        5.04,
+        "If you know anything about lavender, it's so soothing,"
+       ],
+       [
+        7.56,
+        "it's so calming and to have it under this blanket"
+       ],
+       [
+        9.68,
+        "that's also a little bit weighted and heated,"
+       ],
+       [
+        11.78,
+        "it's incredible, so plushy, it's so soft."
+       ],
+       [
+        14.24,
+        "If you just need to relax after a long day"
+       ],
+       [
+        16.14,
+        "or you're feeling sick and you just wanna take a nap"
+       ],
+       [
+        18.14,
+        "in something soothing, this is your blanket."
+       ],
+       [
+        20.16,
+        "Once you start the heat,"
+       ],
+       [
+        21.2,
+        "then you can start to smell the lavender,"
+       ],
+       [
+        22.76,
+        "it's like the best combo"
+       ],
+       [
+        23.74,
+        "and I'm sorry if it's already sold out,"
+       ],
+       [
+        25.44,
+        "I know it's limited edition."
+       ]
+      ]
+     }
+    },
+    {
+     "creator": "hahn_and_alecia",
+     "video_id": "7649925965539314974",
+     "url": "https://www.tiktok.com/@hahn_and_alecia/video/7649925965539314974",
+     "product": "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw",
+     "product_id": "1729931833196778371",
+     "gmv": 25300.0,
+     "views": 924780.0,
+     "items_sold": "275",
+     "posted": "2026-06-10",
+     "ad": true,
+     "source": "Kalodata",
+     "frames": {
+      "duration": 8.38,
+      "downloaded_from": "https://www.tiktok.com/@hahn_and_alecia/video/7649925965539314974",
+      "hook": [
+       {
+        "target": 0.0,
+        "t": 0.0,
+        "src": "assets/storyboard/7649925965539314974/hook1.jpg"
+       },
+       {
+        "target": 0.5,
+        "t": 0.3,
+        "src": "assets/storyboard/7649925965539314974/hook2.jpg"
+       },
+       {
+        "target": 1.0,
+        "t": 1.4,
+        "src": "assets/storyboard/7649925965539314974/hook3.jpg"
+       },
+       {
+        "target": 2.0,
+        "t": 2.0,
+        "src": "assets/storyboard/7649925965539314974/hook4.jpg"
+       },
+       {
+        "target": 3.0,
+        "t": 2.8,
+        "src": "assets/storyboard/7649925965539314974/hook5.jpg"
+       }
+      ],
+      "hold": {
+       "t": 2.31,
+       "src": "assets/storyboard/7649925965539314974/hold.jpg"
+      },
+      "body": {
+       "t": 4.19,
+       "src": "assets/storyboard/7649925965539314974/body.jpg"
+      },
+      "close": {
+       "t": 6.7,
+       "src": "assets/storyboard/7649925965539314974/close.jpg"
+      },
+      "strip": [
+       {
+        "t": 0.0,
+        "src": "assets/storyboard/7649925965539314974/strip/001.jpg"
+       },
+       {
+        "t": 2.5,
+        "src": "assets/storyboard/7649925965539314974/strip/002.jpg"
+       },
+       {
+        "t": 5.0,
+        "src": "assets/storyboard/7649925965539314974/strip/003.jpg"
+       }
+      ]
+     },
+     "frames_status": "ok",
+     "caption": "@Comfrt #SummerVibes #DealsForYouDays #tiktokshopfathersday ",
+     "rank": 20,
+     "tx_wps": 3.22,
+     "tx": {
+      "speech": false
+     },
+     "note": "Manually checked (frames + audio): no creator voiceover. Trending song audio (Whisper caught lyrics, 'better get it, better go'). Story told via on-screen text \"who else ordered tons of comfrt dreamer blanket bc this price is actually WILD today?\" + reaction squeeze of the blanket."
+    }
+   ]
+  }
+ ]
+}
